@@ -84,21 +84,7 @@ Through this project, I gained practical experience with:
 
 ```text
 README.md
-screenshots/
 ```
-
----
-
-## Screenshots
-
-The screenshots folder contains visual proof of the completed setup process, including:
-
-* Cursor IDE installation
-* Claude Code extension setup
-* Codex extension setup
-* GitHub repository configuration
-
----
 
 ## Reflection
 

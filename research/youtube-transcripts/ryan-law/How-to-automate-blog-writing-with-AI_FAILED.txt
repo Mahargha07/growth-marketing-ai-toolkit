@@ -1,0 +1,2 @@
+Transcript unavailable for video: iVZrVeESnFQ
+Reason: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'

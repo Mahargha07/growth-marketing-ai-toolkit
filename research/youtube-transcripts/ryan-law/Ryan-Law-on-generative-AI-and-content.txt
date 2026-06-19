@@ -1,0 +1,1076 @@
+EXPERT: ryan-law
+VIDEO TITLE: Ryan Law on generative AI and content
+VIDEO URL: https://www.youtube.com/watch?v=b949h7ZJW8w
+------------------------------------------------------------
+
+there are companies investing a lot of
+money into like building out custom
+fine-tuned models that actually does
+create pretty good content but this was
+basically like almost like search and
+replace you know replace this product
+name with this product name like things
+that would have sounded a bad idea like
+yeah 10 years ago and there was so many
+people in the audience like taking notes
+taking pictures of it and I just know
+they probably went away and tried to do
+that for
+themselves hey and thanks for tuning in
+to another episode of content briefly
+I've got a real treat for you today
+talking to my old friend Ryan law we had
+the privilege of working together back
+in our animal stays in 2018 19 and 2020
+I came to think of Ryan as one of the
+smartest most Innovative Minds in
+content marketing all of that is public
+you can see a ton of stuff that Ryan has
+written on the animals blog now the at's
+blog he posts a lot on LinkedIn and
+Twitter his knowledge is all out there
+he's incredibly smart he's a great
+thinker and a prolific writer too we
+talked all about his transition to
+becoming the director of content at hats
+which was very interesting to hear about
+I actually really didn't know much about
+the inner workings of the company so we
+talked all about that their editorial
+process and then of course we talked
+about Ryan and Hat's take on generative
+AI kind of where we are right now things
+Ryan's seeing he was also just at the
+Brighton SEO conference so he had some
+insight from chatting with people there
+too I thought this was kind of a helpful
+level setting for where we are with AI
+right now I feel like there's pressure
+to use it but not a lot of obvious use
+cases and so that was kind of the theme
+of that conversation and then of course
+we talked about some Orion side projects
+which include learning to code creating
+courses writing post-apocalyptic novels
+he has a lot going on and it's part of
+his continual itch to keep learning and
+keep creating so anyways it was a great
+conversation as always I really enjoyed
+it and I hope you do too hey everybody
+Jimmy from Super path here today with my
+old friend Ryan law director of content
+marketing at HRS which honestly feels
+feel weird to say I'm still
+climatizing uh to not calling you the
+CMO of animals anyways Ryan we haven't
+chatted in a while I'm excited to catch
+up today I'm assuming that pretty much
+everybody who's listening to this
+podcast knows you but would you mind
+giving an intro maybe with a focus on
+the last 12 months I mean I'm not sure
+exactly how long youve been at HR a year
+is maybe focus on on that but include
+some of the stuff on your your kind of
+longer term content background
+too yeah sure and yeah I finding myself
+defaulting to saying animals and then
+having to like slap myself on the wrist
+as well I'm not there anymore um but
+yeah so you know I was obviously at
+animals for like five and a half years
+um doing everything from like content
+writer up to eventually being CMO and
+learned a crazy crazy amount working
+with people like you and Walter and
+Andrew and Devin and Haley uh I left
+animals last May something like that
+took a few months to panic and work on
+some personal projects uh and then
+trying to work out what the heck next to
+do in my life I had a chat with the
+amazing Tim solo at H ref obviously CMO
+and he basically said uh you know I'd
+love you to come and join the team kind
+of whip us into shape a little bit
+particularly help us write the kind of
+content that we're not not particularly
+experienced that like thought leadership
+and opinions and all that kind of thing
+so I joined HRS I think back in like
+last August as their director of content
+marketing so primarily I work with with
+the blog team I have a few direct
+reports um I write for the blog as well
+I'm very much I try and have skin in the
+game that was a big part of like what I
+wanted to get out of this job but I also
+help out with some of the broader
+marketing initiatives uh been to some
+like events and conferences with the
+team and even helping out a little bit
+with some of the new like product
+features we're building out which has
+been super interesting and super
+exciting um so yeah yeah it's been a
+blast hats is this amazing content brand
+so I feel very privileged to come and
+join an already amazing team yeah yeah
+it is it really is a great brand you
+probably don't know this but um one of
+the primary drivers of new signups to
+the slack Community is ahrs uh from a
+blog post that I actually don't uh
+Rebecca maybe wrote it a couple of years
+ago and it's like a you know the seven
+best communities for marketers types of
+thing it must rank really well though
+because we get quite a few people coming
+into slot group from that so thank you
+oh pleasure yeah I always it's very easy
+to think you know when you're writing a
+listicle that it's just you're trying to
+get some traffic but then you talk to
+somebody that you included and you're
+like oh okay that actually that had a
+big impact on like their business or
+whatever it's um yeah search is pretty
+crazy in that mechanism yeah yeah and
+actually I have some questions for you
+about search that I would love to chat
+through one thing I did want to chat
+about briefly though was when you left
+animals you did something very smart and
+it's like a something you only get to do
+a few times in your career maybe you you
+know you go on LinkedIn you say like hey
+this was an amazing experience thank you
+so much to all these people I don't know
+what's next for me so hit me up if you
+want to chat and like that doesn't
+usually happen usually people are
+looking for jobs kind of behind the
+scenes and they never really get the
+opportunity to throw it out there to let
+everyone who might want to know
+no what was that like I mean I'm gonna
+assume that you got hit up left and
+right for months
+afterwards yeah it was kind of scary um
+I just I think I just reached a point
+where I was just I don't know I needed a
+change I was just ready to do something
+completely different and it's really
+hard making that decision working out
+what you want to do when you're also
+trying to do a good job at the thing
+you're doing dayto day like at the at
+the day job so I thought you know I take
+a bit of a bet on myself I'll bet that
+within like three months or something I
+should be able to get a job I won't end
+up completely destitute and homeless uh
+and you know failing that I'll try and
+Chuck out some side project in the
+desperate attempt to you know have some
+money to pay our
+mortgage um and yeah I think it was with
+hindsight a really lucky really awesome
+thing to do because you know if you kind
+of quietly go and apply for a job you're
+limited to what people are actively
+looking for at the time um but by being
+a bit loud about it by encouraging a bit
+of discussion there were plenty of
+opportunities that people weren't trying
+to hire but they thought hey maybe this
+you know this could be a cool
+serendipitous thing here like hats
+actually there was no director of
+content marketing job on the hatress
+website at the time it was just this
+kind of Lucky culmination of you know
+problems they were having in their
+business that the skills I hopefully
+could bring to the
+table um so yeah I talked to I think I
+took 80 calls which with hindsight was
+like it was it was actually a terrible
+idea I let my scarcity mindset win out I
+shouldn't have done that because I
+basically like burned myself out on that
+and up ghosting a bunch of really
+generous gracious people that took the
+time to talk to me um so I should have
+been more selective about what I wanted
+had a bit more self-confidence there um
+but yeah it did thankfully pan out in
+the end and I will just say a big big
+huge shout out to Devon obviously lovely
+Devon that we used to work with uh I
+basically copied her resignation post
+almost word for word she edited my one
+as well like gave me some advice on it
+and also just gave me the confidence to
+do it in the first place so um yeah that
+was a huge help that's fantastic I
+remember seeing that post and I was like
+this is brilliant this is brilliant
+Ryan's gonna land a sweet job out of
+this 100% and you did and so you come
+into ads and also clarification on the
+pronunciation you pronounce it hatra is
+that because you're British or is that
+how everyone pronounces it internally so
+that I know I I looked up like
+interviews of Tim saying it before I
+talked to him on the calls just so I
+wouldn't mess it up hat refs is how
+people say at the company okay all right
+that's how I will it doesn't matter like
+there's no no um Hat's police are going
+to go around and tell people off but uh
+yeah that's how how we say it okay cool
+hey drafts got it so you come in and
+what tell like what's the experience
+like you come in it's a new role you
+have a team uh was the team there on day
+one have you built the team since then
+are you doing an audit of the blog like
+kind what's the first I don't know 90
+days or so uh in the job look
+like yeah it was really interesting
+coming in
+because a lot of what I've done with
+content marketing is like starting from
+scratch for companies that have never
+done it before and this was just like
+the polar opposite of that I came in
+with a bunch of like exciting content
+ideas some programmatic content ideas I
+wanted to do and we'd either done it
+like five years ago or it was in the
+process of being done I really had to
+like shift my mindset you know I'm not
+going to be the guy that finds a bunch
+of loow hanging SEO fruit for H refs
+because there are like 50 people that
+have already done that for the company
+um so I I think I focus primarily on
+learning the product as best I could um
+I did like a good few weeks Ash in
+Customer Support getting really like
+nitty gritty and the weeds learning
+about stuff I never knew anything about
+um writing my own content trying to like
+get some reps in and uh build up my
+confidence on that side of thing you're
+trying to have opinions on an industry
+I've not really thought about or worked
+about for a while and mainly helping the
+existing team improve their process a
+little processes a little bit um not to
+say they were bad before but I think
+there had been like a slight waning in
+like content quality we were writing
+more SEO content just for the sake of
+ranking and we were losing the stuff
+that made it interesting or unique or
+exciting for people to actually read so
+I spent a lot of time changing editorial
+process we restructured the team a
+little bit we cut out some of the stages
+and you know tried to give people a bit
+more creative license to write about
+things that they think are interesting
+and helpful even if there aren't
+keywords to back it up as well yeah is
+it true that HFS hatra excuse me uh
+doesn't use Google
+analytics yeah very true um
+and it's just kind of funny that we're a
+big data company that has this amazing
+you know data platform and in terms of
+us understanding how our marketing works
+it is largely intuition and qualitative
+uh feedback that we get in terms of
+shaping that um which is it's cool you
+know I'm a bit I'm a bit of skeptic
+about the value of analytics I think you
+probably are in some ways as well like
+unless it will actually change your
+behavior it's probably not worth
+collecting a bunch of data so between
+using the HF platform and seeing how
+things perform through that mechanism
+and also just our own qualitative
+experience that tends to be enough to
+shape where we go absolutely I never
+made the switch to G4 it just seemed
+like a headache and I didn't do it so we
+don't have Google analytics anymore I I
+mean I didn't check it before and I have
+nothing to check now it's kind of nice
+actually um you use your own tool
+obviously does that potentially skew
+your bias towards SEO content because
+the thing you can most easily measure is
+how stuff's
+ring yeah exactly that um so I've
+published a few like uh non SEO posts
+and looking at the data in HRA I'm like
+I'm awful I'm terrible no one is looking
+at these
+whatsoever uh and you do have to rely on
+you kind of you social media responses
+or newsletter features or backlink
+acquisition or that kind of thing as a a
+bit of a heuristic for whether people
+actually care about the topic or not
+yeah yeah how big is the hatri team
+overall like how many employees I really
+have no sense for the size of the
+company and then tell us about the
+content team and the structure of that
+team
+too yeah so I think the whole company
+now we're about 27 people something like
+that across like 30 no merbe like 20 odd
+locations um which was really
+interesting because for comparison we're
+about the tenth the size of semrush for
+example like far far smaller far leaner
+compared to you know otherwise fairly
+comparable company um and in terms of
+the content team or the marketing team
+uh We've obviously got Tim CMO in charge
+of everything we have the content team
+which is Led well the blog team rather
+which is led
+by kind of dually led by myself and Josh
+so that might be an interesting thing to
+talk about uh we both manage something
+like uh you know seven writers or
+something like that um we've got the
+video team which is run by Sam a couple
+of like video editors we've got a design
+team which is like a shared resource
+across us but also product and then
+we've got a bunch of kind of specialist
+uh marketers who do things like events
+and PR Community product paid
+advertising uh and even uh we have Eric
+doing like Spanish language stuff for us
+as well oh cool so we're indexed super
+heavily on like the blog because that
+has always been the primary growth
+Leever for HFS and but actually a turn
+of growth has come from the video
+content recently Sam has been doing such
+a good job over there you know every now
+and then someone will post in the super
+P slack Community about like can anyone
+share some good resource for learning
+either beginner or Advanced SEO and
+people always point to the Hat TRS
+YouTube channel there's really good
+stuff there yeah and it's really
+interesting because um you know Sam
+started off I think approaching it as
+like an SEO exercise you know what
+keywords can we rank for through YouTube
+search but he's actually kind of moved
+away from that and he's now creating
+content that is just is meant to be like
+fun or interesting or have some
+experiment or a stunt associated with it
+and so far like it's been a step change
+in terms of the amount of people that
+engag with it and watch it it's been
+absolutely crazy to watch so hopefully
+he's at the cusp of like you know that's
+maybe part of the next era of where
+content marketing's heading a little bit
+I hope so I think B2B YouTube has the
+potential to be so cool you know like if
+you just kind of observe like what's
+happened on YouTube over the last couple
+of years like YouTube is amazing like so
+often when I go sit down on the couch to
+watch TV which doesn't hardly ever
+happen now that I have two kids but when
+I do usually I'm pulling up YouTube not
+Netflix because there's just so much
+cool stuff it's so like Niche you can
+learn about something you can be
+entertained it's all there and I feel
+like mostly untapped so that's very cool
+yeah what about the seven writers those
+are Freelancers or those are in-house
+folks we are all in-house now um which
+was actually a change we made just
+before I joined the company um over the
+years like HF has scaled a very big like
+freelance content team and there's been
+some amazing content created um I think
+it was just we wanted to see what it was
+like to have slightly more control over
+the editorial process because it was
+getting quite inefficient I think when
+you're pitching all these topics from
+all these different sources we have such
+a huge library of existing content even
+just like working out whether we covered
+something or not was really hard and
+then also managing the editing and the
+distribution of that content um so we
+actually yeah I think we hired a lot of
+the writers full-time that were working
+in the freelance capacity and we now do
+stuff just in house which is actually
+been really really good fun I love
+working really close it with a couple of
+writers and going super deep into their
+drafts and their editing and helping
+them improve how they think about
+content yeah that's very cool and
+actually somewhat rare nowadays to have
+seven full-time writers on your team a
+lot of companies work with seven writers
+but freelance for sure and maybe each of
+those people writes a post a month or
+something like
+that yeah and you I don't know there's
+something I think we just care a lot
+about as a company um you know Tim CMO
+and he still writes blog posts uh I
+carry a full like writing workload like
+any other writer does as well as you
+doing a bunch of other stuff and um yeah
+long may we continue to invest in
+full-time content I think yeah that's
+cool and so you mentioned that you kind
+of co-manage the blog team with Josh I
+think you said his name was what tell us
+about that how does that relationship
+work like you all split duties somehow I
+imagine yeah it was an interesting
+joining because I was like so Josh
+Joshua hard work is like he was the blog
+guy at HF you know he's been at the
+company for like seven years he's
+amazing he's written like 200 or more of
+the posts that we have currently ranking
+um and I was kind of thinking like what
+do they need me for like where do I fit
+into this puzzle um and the thing that
+struck me about hatf is just how flat
+like the whole company is although we've
+got different titles and stuff like that
+we all work together collaboratively on
+a bunch of different things there's
+really not much in the way of like
+hierarchy and that kind of thing so it's
+kind of a split function we both run
+like half the content team I think maybe
+Tim almost brought us together as like
+yin and yang you know we both think
+differently about content and in some
+ways that almost tension between How We
+Do content has actually been really
+productive we' challenged each other a
+lot um it does have a few like
+inefficiencies like I'll come up with a
+new content process and then you know
+there was already a version that we were
+using and then a bit back and forth so
+there's still some niggles to iron out
+uh but generally it's been really fun
+just having like a someone to work super
+closely with are like the same sort of
+level yeah that's really cool I like
+that I have no I come across that but um
+you know I feel like one thing that
+Walter used to do back in the animals
+days was you know put two or three
+people on a problem and then encourage a
+healthy debate among them you know in
+the hopes that the best answer would
+emerge from multiple people thinking
+about something versus just one which
+worked really well I
+think yeah yeah totally I I kind of
+thrive on like a little bit of conflict
+I don't feel like I'm doing a good job
+unless someone has challenged my idea so
+actually having a bunch of like Tim does
+that a lot he still cares a lot about
+content so we always have a lot of
+debate about the ideas we're coming up
+with nice I like I miss that that's one
+of the things I really miss working
+mostly by myself it's like there's no
+one to debate things with you know um
+although the slack group can be good for
+that for sure um okay you know on most
+episodes I shy away from asking about
+generative AI I just have gotten a
+little bit like
+everybody's doing the same thing like
+everyone's like finding these like small
+efficiencies there's not anything like
+really that interesting happening and
+asking many many people however I do
+want to ask you about it because you've
+been writing about generative AI since I
+think before chat GPT which feels I mean
+I remember seeing some of your posts on
+animals and thinking like what is this
+what is he talking about like I was it
+was ahead of the curve you know um and
+then I was watching your video that you
+posted on LinkedIn after the Brighton
+SEO conference and you were saying like
+this sub is only just now kind of
+hitting the mainstream so I'm I'm just
+curious on on your personal take and
+maybe hats take as a company as well
+since generative AI is sort of poised to
+disrupt search maybe maybe not I guess
+we don't really
+know how are you feeling about
+generative AI right now what are you
+seeing do you have any strong opinions
+about kind of where we are at the moment
+and where this is heading over the next
+year or
+so yeah I don't it's such a it's B I
+think about every day like I have chat
+GPT in my browser Tab and I use it maybe
+like 20 times a day kind of for what you
+say like the menial process optimization
+stuff like writing Google Sheets formula
+or helping me like debug code Snippets
+or brainstorm blog post titles and stuff
+like that and that's that's kind of like
+semi-interesting um one of the things
+Tim always says he's very skeptical of
+AI because even when it does a good job
+he feels like it's not quite as good as
+like what a person could actually do we
+have to put a lot lot of effort into
+these tools to get in some cases fairly
+like marginal benefits out of them so I
+feel like they're not quite in their
+final form yet in terms of being like
+this amazing revolutionary like you know
+everyone's going to be unemployed and
+we'll have to live on universal basic
+income kind of
+Technology but I do think I think it's
+going to move to the background and
+become almost like the kind of operating
+system for a lot of how companies
+function you know the technolog is too
+good too cheap I think it's going to be
+a part of every app we interact with
+every day probably in a kind of
+background
+capacity um what I don't think is going
+to happen is all these people that are
+you know pumping out like thousand AI
+generated like one shot blog posts every
+month and even when they're seeing good
+results from it now I think maybe
+they've not been around long enough to
+remember what happened to all the
+content Spinners like you know 10 years
+ago where eventually stuff does get
+trashed and does get dinged totally yeah
+we've been
+there yeah and even you know something I
+learn from animals when had our own kind
+of experiment with um making a kind of
+system and deliverable based on this
+stuff is that skilled people didn't like
+the process we don't want to give away
+the parts of writing that we enjoy um so
+by trying to scale like an AI generated
+content service we basically like made
+people's lives much less interesting and
+much less enjoyable so I think it's
+something we all need to learn about and
+there will be some instantiation of it
+in every tool that we use but I feel
+like prompt engineering and onot logging
+and a lot of the like hype use cases for
+it at the moment are just totally
+misguided to be honest yeah yeah what
+kind of stuff were you hearing at
+Brighton
+SEO so there's one talk was really like
+stuck in my mind um it was basically
+like I don't want to give too many
+specific because I don't want to like
+diss anyone too vividly but there was a
+talk about how you could uh scale up
+your content program using generative Ai
+and I think there are ways you can do
+that right there are companies investing
+a lot of money into like building out
+custom finetuned models that actually
+does create pretty good content but this
+was basically like almost like search
+and replace you know replace this
+product name with this product name like
+things that would have sounded a bad
+idea like yeah 10 years ago and there
+were so many people in the audience like
+taking notes taking pictures of it and I
+just know they probably went away and
+tried to do that for themselves and you
+know people should experiment but I feel
+like that is the kind of use case that
+is just is not good um and yeah a lot of
+people are scared about sge as well the
+impact that's going to have on search um
+we were worried about featured Snippets
+when they came out you know suddenly
+Google was taking information from your
+blog post delivering it straight to
+users and cutting you out I think SG is
+like that but kind of ramped up on
+steroids a little bit but SEO changes
+content changes um I don't think we
+should be too precious about how things
+are now we just need to work out what
+opportunities exist in the the new
+version of SEO I think yeah you know
+there was a someone posted an article in
+the slack group the other day from um
+Benedict Evans like investor oh yeah
+wrer guy anyways and the article is
+basically about like we don't really
+know what to do with this technology yet
+because the use cases don't really even
+exist and he likened that to the
+personal computer like there was an ERA
+in the 80s when Steve Jobs was trying to
+sell people computers and they said I
+don't even know what I would do with a
+computer you know and it just took time
+for things to kind of catch up and then
+it's like well now everybody has a
+smartphone a laptop you know they might
+go to their office where they have
+another computer like this just we're
+surrounded by these things now and that
+was basically what he was saying it's
+like the technology will find its use
+cases as it evolves and as we kind of
+evolve to um you know whatever like our
+society basically changes to have the
+needs that this thing could solve that
+we don't even really know about yet
+which I found to be interesting and also
+like a little bit scary like
+what will we be doing with tech in five
+years like I have no
+idea yeah what will this Tech be doing
+to us in five years but um yeah I love
+that as a like a mode of thought and I
+think if we were all just a bit patient
+that would be fine but of course there's
+this like pseudo economy popping up
+where people are trying to like make a
+ton of money off the technology now and
+insisting that the current version is
+all that you need and yeah definitely
+not not not something to be ignored I
+don't think CU for sure you you wrote an
+article for the blog titled AI content
+is short-term Arbitrage not long-term
+strategy and I feel like you really
+captured in that title exactly where we
+are right now it's like we should I
+think we should all keep chipping away
+like what what can we do how can we push
+this technology what can we not just how
+can we create efficiency in our existing
+workows but is there something that new
+we could do that we really couldn't do
+before and we'll we'll get there
+eventually you know I have this this
+thing bouncing around my head about the
+content Playbook needing to be Rewritten
+and I think it will only be Rewritten as
+people chip and Chip and Chip and Chip
+Away with this technology and then use
+cases will start to emerge but then one
+company will do it and then everybody
+else will follow and then that will sort
+of continue to happen until this new
+playbook is kind of fleshed back
+out I yeah totally agree with that and
+I'm kind of sympathetic I kind of I
+trashed the whole like you know uh
+content Heist that's published a
+thousand articles at once in that
+article but we do kind of need some
+people to test that out and see what
+happens yeah true um I'm kind of you
+know our job as like marketers and
+content marketers is to we have a
+responsibility I think to test out every
+new technology and see if there is some
+advantage that we can confer to our
+company through using it I just think
+we've reached a point now enough data
+has been collected to see that that one
+short content play is probably not a
+very good idea in most
+Industries um but if if anyone does have
+ideas for the next generation of the
+content Playbook um please DM me on
+Twitter or something I have have a
+Starbucks gift card for you you know I
+have one kind of like Niche use case
+that I would like to figure out with
+generative AI which is how to turn five
+years of user generated content in our
+slack Community into search accessible
+content like in theory we could create
+the quora of content marketing because
+we have tens and tens of thousands of
+questions and then answers for all of
+them and I haven't I think there's a way
+to do it I don't know what it is yet but
+then we also have to figure how do you
+kind of protect people's privacy you
+know like people didn't post these
+things with the intention of it being
+searchable on the open web you know
+there is like some there is some amount
+of privacy to so but I feel like there's
+probably uh I don't know if that it
+necessarily perfectly fits the
+definition of programmatic SEO but I do
+feel like there are things like that
+where you're sitting on this mound of
+material that you could run through a
+model and spit out actually great stuff
+because it's already been generated by a
+person you just need to form it in a way
+that it would be more enjoyable to read
+and make it accessible to
+people yeah and I love that because
+you're basically building a search
+engine at that point aren't you because
+not only are you trying to like answer
+queries but also if you've got multiple
+answers within the slack group you're
+going to have to find some way of
+ordering and ranking those queries as
+well and I think we're seeing a lot of
+that you know people at the same time
+that people are the least happy they've
+ever been with the existing Google
+search results we also have the most
+fragmentation of like alternatives to
+that like if I want to know about
+content I'd probably rather search the
+super paath archives than I would Google
+because it's like a vetted community of
+people that actually know what they're
+talking about and yeah don't know it' be
+interesting to see how that pans out
+over the years you know are we going to
+see more of these specialized kind of
+mini search engines emerge yeah cool
+that would be cool yeah totally any
+other takeaways from Brighton SEO I mean
+I I actually I watched your video with a
+lot of curiosity because I haven't been
+to a marketing conference and I think
+the last one I went to was uh in 2014 I
+think so 10 years it's been a long time
+and in your video you basically said hey
+this was fantastic I had a great time I
+learned a lot I met all these cool
+people you know any takeaways from that
+like do you plan on doing more event
+stuff yeah so it was kind of cool
+joining HED refs because it is actually
+a very like event oriented company I
+didn't really realize that before I
+joined um we have like we regularly
+sponsor a lot of these events so we're
+like one of the main headline sponsors
+of Brighton uh we also attend lots of
+events as well and we actually like
+financially support and sponsor lots of
+like meetups and workshops and that kind
+of thing um it kind of falls under that
+umbrella of like you know marketing
+activities which it's really hard to
+prove the ROI but also you know it's
+there because you meet these people and
+they recognize you and they talk about
+you and they're really like I talked to
+Chima Med actually she's like content
+manager at MOS and she's got this
+amazing like nonprofit um charity
+organization and she said you know hatre
+was the First Financial supporter of
+that and it's those tiny little things
+you know it's that has a huge ripple
+effect I think down the line in terms of
+people the Goodwill and thinking about
+your business and that kind of thing
+that's great that's really yeah super
+super interesting experience I'm a
+massive introvert and I you know like
+seeing on my laptop typing all day but
+couple times a year put me in a
+conference with a few people yeah I had
+a really good time yeah yeah that's
+that's awesome and you all are hosting
+an event this fall or is that
+right yeah we're actually running our
+very own conference in Singapore for the
+first time um which is kind of
+Staggering um like in the process of
+like solidifying the speaker lineup at
+the moment uh tickets are going to go
+live I think maybe next week or the week
+after um it's going to be interesting to
+see what it's like actually being on the
+organizational side of it I reckon it's
+probably going to be really freaking
+hard actually yeah yeah are you
+going yeah uh apparently I'm speaking as
+well so I should probably uh put
+something together oh that's awesome
+that's really cool you know you I have a
+couple questions I want to ask you just
+on a semi-professional note like you're
+a uh sort of famous for some of your
+side projects like you've two courses up
+you've written novels um I saw the other
+day that you took a python course and
+have been learning to program like I
+guess I am sort of curious about like
+the part of your brain that like always
+needs to be noodling on something else
+and then very specifically I'm curious
+about the python thing that caught my
+eye that you want to be able to interact
+with apis I'm sort of curious like what
+kind of stuff you're you're working
+on yeah I mean I just I get bored very
+very easily um it just that was one of
+the reasons I loved working animals
+actually you know there was always stuff
+happening different parts of the company
+and there was a little bit of chaos you
+know so I was able to go and get my
+hands stuck in into whatever fire was
+burning at the time and I I just I like
+that I enjoy that I think learning new
+stuff is probably the most fili
+fulfilling part of my job um so I'm
+always yeah always trying to learn
+always trying to do new stuff always
+trying to like fill in gaps in my
+understanding um and a lot of it yeah
+what was it like to write a book I
+didn't know so I eventually had to go at
+that we thought about launching the
+animals Academy at some point like a
+kind of training thing and when that
+didn't kind of like get off the ground I
+thought just do it for myself you know
+and see see what that process is
+actually like um yeah it's been good fun
+I yeah I always I try and dedicate like
+a little bit of my brain every week to
+furthering some kind of side project in
+some capacity yeah are there more
+courses com
+yeah I've got I I'm always thinking
+about it I've got one idea noodling on
+at the moment I think it would be fun to
+do so hopefully between a very fullon
+and fulfilling job and very fullon and
+fulfilling children at some point maybe
+I might find a bit of heads space and
+how about the python thing I've been
+thinking a lot about No code lately and
+really trying to push my own skill set
+there so like the latest thing I was
+working on was web hooks learning how
+web hooks work learning how to use them
+and like now that I have like a basic
+understanding my mind is sort of blown
+about how powerful web hooks are um
+python keeps coming up like that's a lot
+of thing as I'm in like no code
+communities and searching around for
+solutions to things it's like oh will
+you just use this python snippet to do
+this or that I'm like H okay I think I
+might have to tackle that what are I'm
+curious like if you have a use case in
+mind for and then two like what is the
+process of learning that b
+like yeah it's really interesting you
+say that because I I always I think felt
+the same with you I was kind of
+fascinated by no code it's it's the
+Allure of code with obviously apparently
+not having to no code I played with like
+bubble and a few of these other things
+and even like web flow for example I
+just kind of felt like it was code but
+like disguised it was code like extra
+steps and there was a part of me that
+was like is there just like can I just
+learn to code in some capacity like what
+is the like simplest most useful access
+point to that I didn't really have an
+answer for a bunch of years so I didn't
+really do anything with
+um and then actually Paul Graham tweeted
+about uh repits 100 days of python
+course in the context of um how few
+people complete it actually and I
+checked it out and it was just exactly
+what I wanted um so python as you say
+everyone recommends it as like the
+introductory language to learn because
+of how it's structured very simply that
+kind of thing and it's free it's like 30
+minutes a day or intended to be and it's
+really like project Focus you come over
+with loads of things that you made I
+could really quickly see how I'd
+actually use that in my job so I I've
+kind of stuck with that and with a bit
+of chat GPT at my side to like
+troubleshoot error messages and you know
+suggest improvements and that kind of
+thing it's actually been really really
+cool really good fun learning how to do
+it um and yeah so the most useful thing
+I've done so far is just learning how to
+call an API you know Andrew uh animal
+showed me how to do this in a really
+like confusing way when I was there a
+couple years ago didn't really
+understand what I was doing I can
+actually do it I wrote my own script to
+call the H refs API get some data that
+would have taken me hours to get and it
+was just like uh I was very very proud
+at that moment I felt like I've actually
+used this for good in my work that's
+really cool also kind of an amazing way
+to dog food the product too because the
+customers who are using the API are
+probably there probably sophisticated
+customers or you know they imagine their
+customer lifetime value is quite a bit
+higher because API is more expensive
+it's integrated into something they're
+doing like um so understanding even at a
+basic level how to do it probably
+informs the way you think about the
+business development part of hats as
+well yeah totally and um you know I've
+been to two Brighton seos while working
+with HFS and I always had Enterprise
+customers come up to me and ask very
+specific technical questions about the
+API and I I always dreaded that but now
+I could at least have some semblance of
+understanding of like what they're
+asking for
+and that was kind of one of the
+motivations for learning generally right
+working at a software company and not
+understanding code I just felt kind of
+like mute like I wasn't speaking the
+same language as the rest of the company
+and maybe I I don't have to learn that
+language but I kind of want to I want to
+just understand a bit more and absorb it
+a bit more and um yeah it's been good
+fun so far that's very cool Chad gbt
+like you said is amazing for this kind
+of thing anytime I bump into an issue
+with any of the no code stuff I've been
+working on I just ask chat GPT it
+literally the other day wrote a script
+that I was able to put inside of an a
+table automation that I I could never
+have did I mean maybe if I studied it
+and learned you know JavaScript or
+whatever I could have figured it out six
+months from now but it did it in 30
+seconds and I was like whoa that you
+that is amazing um and I find it
+particularly useful in a programming
+context because it just has to be
+correct you know part of the problem
+with generative AI from a Content
+perspective is that it needs to be
+interesting and personality and based on
+you know real life experience but for
+code it just has to be it's either right
+or it's not right you know what I mean
+yeah I'm sure that I'm sure a programmer
+would listen this and say you have no
+idea what you're talking about but for
+the use cases I have it's just if it
+works I'm I'm
+thrilled yeah exactly that because yeah
+in like content marketing I feel like
+we're always fumbling around the edges
+of code you know with like CSS or HTML
+trying to like add like a CTA to a blog
+post in WordPress or something and it's
+been really good for just yeah expanding
+the horizons a little bit and making me
+a bit more fluent in the language of
+code cool really cool stuff um Ryan I
+want to be respectful of your time you
+told me before we started recording that
+you don't have a super path hoodie which
+I am stunned and frankly embarrassed
+about so we will get one in the mail to
+you as soon as possible um thank you so
+much for taking the time I know you have
+a lot going on between work and family
+and everything else and novels and
+learning code and building courses and
+all that so we really appreciate the
+time where can we direct people to
+follow along with the work you're doing
+for hats and then any personal stuff you
+have going
+on yeah uh Hat's blog is where you know
+most of my writing and thought ends up
+these days actually got hopefully a
+really cool post coming out this week
+that people might like um and otherwise
+LinkedIn and Twitter they're the two
+places I spend uh slightly
+unprofessional amounts of
+time perfect we'll have links to
+everything in the show notes for for
+folks to go quickly access all the
+things Ryan great to catch up thank you
+again and hope to do it again soon no
+thanks for having me Jimmy always a
+pleasure take care
+[Music]

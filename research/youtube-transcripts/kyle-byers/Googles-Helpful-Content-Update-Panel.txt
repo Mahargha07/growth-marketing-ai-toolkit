@@ -1,0 +1,1719 @@
+EXPERT: kyle-byers
+VIDEO TITLE: Googles Helpful Content Update Panel
+VIDEO URL: https://www.youtube.com/watch?v=fbv2-JtC5PM
+------------------------------------------------------------
+
+hello
+welcome everybody
+people are just trickling in so i guess
+i will i'll start with kind of a brief
+little cookie cutter uh thing
+what what's everybody's favorite book
+that they've read so far
+keep it to like one to two sentences
+real quick as we we have people uh
+trickle in i'll start to say that i've
+been reading this like fantasy novel
+series called like stormlight archives
+really nice to finally take a break from
+reading so much productivity and
+you know like business stuff
+i started actually reading uh house of
+dragon the book after i i watched
+episode one because i i realized that it
+wasn't good and there was a like proper
+book uh behind the story but oh my god
+700 pages
+it will take a while let's see if i
+finish the book before the series
+actually ends in a few years
+i'll say um all my reading is not it's
+business oriented or very serious so i
+was trying to think of something that
+was light-hearted and i i can't come up
+with anything but the the hostage at the
+table is a business negotiation book
+that's very good
+oh interesting
+kevin ethan any books
+oh
+well i have to my my most recent
+favorite book is of course product led
+seo by eli schwartz
+but my other uh favorite book is
+15 commitments of conscious leadership
+which is this book that's actually very
+good about um
+different uh
+different patterns in the workplace like
+don't gossip and how to give difficult
+feedback and
+things like that is super useful so
+that's that's my favorite recent book uh
+and then product let us know
+yeah
+ethan double double on i want to plus
+one con 15 comments accounts leadership
+probably one of the books that changed
+my my life the most um and the second
+one that also had a profound impact on
+me is principles by ray dalio classic if
+you haven't read it then
+you should
+awesome cool we have over
+125 people here now joining us for the
+round table i want to just give a great
+thanks to elena cindy ethan kevin for
+joining us we want to discuss everything
+that's been going on with google's most
+recent oh i'll go update definitely a
+lot of chatter right that people have
+been speculating on and so we figured
+why not get some of the best and
+brightest minds in seo together to to
+think about and discuss what's what's
+been going on with the helpful content
+update and also forecasting
+what this implies for seo and content
+moving forward
+a brief bit of introductions we have
+aleda aleda is an international seo
+consultant and founder of oriante a
+highly specialized boutique seo
+consultancy she's a popular blogger
+speaker author of seo las claves
+her writings have been published in
+search engine land search engine journal
+and moz
+we next have cindy cindy is the ceo of
+mobile moxie and also an author of
+mobile marketing finding your customers
+no matter where they are she speaks and
+trains people around the world in mobile
+marketing and mobile seo
+next we have ethan ethan's the ceo of
+graphite a premium growth agency
+graphite focuses on seo content strategy
+that builds scalable growth engines for
+companies like masterclass robinhood and
+netflix
+lastly we have kevin kevin is a
+strategic growth advisor and creator of
+the growth memo newsletter and host of
+the tech bound podcast he's run seo at
+organizations like shopify g2 atlassian
+and consulted for brands like ram
+eventbrite finder he's also an active
+angel investor
+brief bit about myself i'm the
+co-founder of clearscope the leading seo
+content optimization software for
+quality content teams before clearscope
+i was doing a co consulting where i did
+companies like doordash strava compass
+and i led um did a lot of growth
+advising at 500 startups
+so round of applause for everybody here
+to kick us off i wanted to ask kevin and
+elena to to kind of get their initial
+thoughts on you know what the google
+helpful content is
+and when it initially rolled out what
+were your first impressions right you
+had a lot of things that you all put
+together in terms of like the resources
+and your opinions that got shared pretty
+widely in the community so just to start
+us off you know what your initial
+impressions were
+so my initial impression is that this uh
+update could have been
+called the authenticity or originality
+update rather than helpful update
+because the like and i have to say i
+actually roll like like launched this
+poll over twitter to see if people were
+seeing any impact and most of the
+answers and i got 629
+votes most of the answers 58 of people
+didn't didn't see any impact then 16 saw
+positive impact nine percent only mostly
+negative and it makes sense because when
+you go and take a look uh and see which
+are the websites that
+tend to have seen like an important
+meaningful impact these are all scrape
+aggregated uh non-original content type
+of websites like for example manual
+dictionary lyrics type of websites there
+are tons if you go to c streaks movies
+movers and shakers and go to those
+websites that have dropped the most in
+this time uh interval
+yeah these are very like spammy type of
+websites or not necessarily like real
+uh valuable businesses or businesses
+that have a real business model or real
+product or service beyond ads uh so it
+makes the sense that all of us who are
+seos haven't seen an impact on our
+clients right that tend to have uh an
+actual product or service or value
+behind it
+yeah i want to double that
+um
+and just like take a step back
+uh i think like one context that this
+update fits into is that there's more
+and more content on the web it's super
+easy to create content we haven't even
+spoken about
+ai content i'm gonna not dive into that
+for now uh maybe we can later but in
+general it's just super easy to publish
+right and the challenge that con that
+google is in front of is that it's
+getting harder to crawl the web
+uh one thing that wasn't mentioned in
+the context of this update is that every
+august for the last couple of years we
+see indexing issues on google site and
+infrastructure problems uh so there's a
+challenge of just
+you know reining in all this content and
+then of course ranking it is also more
+challenging right one of the for example
+one of the the types of sites that seem
+to have been impacted the hardest are
+lyric sites and a lot of these sites are
+just copy pasting lyrics right there's
+no additional value
+to the user uh it's pretty much
+duplicate content and the sites that
+actually won like genius.com and
+easylyrics.com they all provide an
+additional value like at genius.com you
+can comment and annotate lyrics which is
+an additional value and so
+um google just inc sets the bar higher
+and higher of what
+acceptable content looks like um and
+this is another example of an update
+that that does that facilitates that at
+scale now one thing that i want to
+before i pass it on
+that one highlight real quick is that i
+think i think we all and i certainly
+contributed to that i think we all
+expected
+more regular content to be affected by
+this update and what the very early data
+shows it's that it's really the bottom
+of the barrel type of content like
+almost spammy no value goes after some
+high search volume
+um
+uh queries that get get a quick answer
+like i saw a website for example that
+teaches math and they go after queries
+like what's 10 of 73 right it's like
+this is super basic type of stuff and
+that's i think what google means with
+content that's created for search
+engines rather than users so i'm going
+to stop there
+yeah ethan cindy anything to add
+total agreement um i think that um it
+may be
+that we'll really get a stronger sense
+in the next couple of weeks right it
+does seem like this was a plan that they
+launched the helpful content update and
+then the september update so um it may
+be that you know helpful content added
+some kind of new um
+evaluation or some kind of new waiting
+and then the core update um kind of
+expanded that out or applied that in a
+wider way
+um so
+yeah i think it's tbd but definitely
+uniqueness
+does uniqueness and value add are being
+given more weight
+however that plays out
+yeah the way that i think about it is
+uh social media is filled with fake
+information and google is filled with
+useless information and so they're
+generally trying to solve this problem
+of useless information and i think
+there's i've
+inferred five themes from the update so
+the first two already existed
+theme one is uh did you find your answer
+did you go back and get it somewhere
+else and so that's
+the back to google rate is a very bad
+signal and finishing on your particular
+url is a very good signal so that's been
+around and they're reiterating that the
+second one is are you making the pages
+for you are you making content for
+google are you making it for users which
+has also been around for a while so
+they're reiterating that there's three
+new themes that i see the first theme
+that i think is very interesting is
+topical authority which is something
+that we've been thinking a lot about
+at our company and that means that
+rather than domain authority which is
+what's your authority overall what
+rather what is your authority for a
+particular topical area and so for
+masterclass early on masterclass had
+authority for the names of the
+celebrities like gordon ramsay but not
+for the food category overall so we
+would focus on things like beef
+wellington and so topical authority is a
+great way for sites that are smaller or
+newer to rank four things and google
+repeated in several of their points uh
+are you known for a particular thing
+and the inputs for that are things like
+branded search a master class gordon
+ramsay or when somebody types in beef
+wellington and they landed on your site
+do they have good engagement and then
+you'll basically build topical attorney
+that way so that's
+one new theme the second new theme is
+rewrite rewritten content which i think
+is probably the biggest problem around
+uh around useless content which is
+everyone's rewriting each other's
+articles and they do that because it's
+cheaper it costs more money to write a
+brand new article and to have somebody
+with expertise and so you just say hey
+go rewrite the first result and then
+somebody else rewrites that result and
+everyone's rewriting their own each
+other's content
+and um and then you have uh basically
+thousands of the variations of the same
+thing
+sorry it's not just cheaper it takes
+original thought and that's hard you
+know like
+and i think google wants to reward
+uh like wants to make things a little
+bit more fair where if you have original
+thought that's valuable that you get
+rewarded with traffic even if you're not
+a great seo or even if you're not paying
+a content farm or whatever
+i think yes
+oh god
+sorry i think that actually google did a
+good work documenting uh the type of
+criteria they will take into
+consideration because in the in the
+original doc that they publish they
+actually mention
+like they will be able to identify if
+the content seems to have little value
+low added value or is otherwise no
+particular helpful particularly helpful
+to those uh queries right for the search
+so they they actually have like a very
+uh straightforward system let's say and
+and the low added value or little value
+especially for queries that as kevin
+mentioned before we can see like broader
+queries and b was queries that can have
+like a diverse type of intent so for
+example i see like queries for example
+white colors or toy guns in which for
+which like aggregators of reviews and
+like were ranking before in the top 10
+not anymore like i see more uh uh
+whether actual
+best type of list
+well
+uh uh
+written and and researched and backed uh
+and and then
+commercially driven category pages that
+are like rich
+in their in their content ranking now
+instead right so i i do believe that
+google has like
+done a really good job in this case like
+specifying that this automatically
+generated content or
+that you pretty much just use whatever
+tool out there or very cheap writer
+without not knowledge at all in order to
+be able to rank for this broad term or
+query like yeah you're not going to be
+able to do that anymore that that easily
+right
+that's here in agreement that and this
+is one of like the questions that have
+already popped up is that the helpful
+content update is like panda version one
+right where it's very clear that certain
+sites lyric ones like being the example
+that we're all familiar with which are
+all more or less copy and paste
+examples from one another
+are taking great hits and i think we're
+all trying to talk right now about this
+idea of original relevant
+high quality content
+where the content itself has information
+gain or you know some people call it
+originality uniqueness you know a
+special point of view
+so i want to ask them to make this kind
+of a more actionable point
+what does that information gain or
+unique and relevant content mean to each
+of you
+and how would you really start to think
+okay if helpful content at least in its
+current form and you know it's very
+likely google will continue to build on
+top of that how are you thinking about
+adding information gain where you're not
+just simply you know just rewriting
+what
+is being written and also similarly you
+can imagine information gain is a
+potential way that google might think
+about combating ai content where ai
+content right at least with the current
+models is simply regurgitating a lot of
+what was already written as well so how
+you think about information gain and how
+are you thinking about creating unique
+relevant content moving forward
+what are your thoughts there
+did we can we pass it to ethan uh i want
+to hear what his uh the rest of his
+thoughts were about the previous
+question and then maybe you can answer
+the next one too yeah well the last the
+last thought is just around i would say
+a misapplication of seo tools like
+seo tools will say in general the word
+count is this or in general people are
+talking about these things which is
+useful and then you would say okay well
+so in general
+maybe people want this particular length
+these are themes that people are
+interested in and the misapplication is
+okay we'll have to have
+1057 words and i have to include the
+word lemon six times you know i think
+that's a misapplication of tools and so
+i think that that that was my last theme
+and then bernard your your question of
+how we're thinking about i think the
+main thing is that the reason why
+there's rewritten content of regurgitate
+regurgitated content number one is
+because it works number two is because
+it's expensive to have premium unique
+content so i think you need to change
+the business model and the reason why
+you do that is because if you write 100
+articles five of them are gonna work and
+you don't know which five and so you
+have to spend a small amount of money on
+the 100 so if you can be more thoughtful
+about selecting those five and sp that
+are going to work and spending more
+money on those and then google changes
+their system to incentivize uniqueness
+uh then you can justify spending that
+money so we spent a lot of time just
+being really thoughtful about picking
+those five
+so that we can spend that money and then
+we so on our end we basically hire uh
+domain experts who are you know
+journalists that uh you know if we're
+working in finance we would hire a
+journalist who's written in finance who
+has some domain expertise now we have a
+business model to justify you know write
+really great content for these
+five uh niche topics that's how we think
+about it
+so i'll add in kind of a unique thought
+um at least i think um is
+that it does seem very much like
+in this update and a couple of the
+previous ones google is directly going
+after affiliates
+and aggregator sites
+and um
+that
+is something that they've done for a
+long time but there's a unique reason
+why they would be doing that now
+because you see they're going after the
+affiliate sites on this side of the hit
+of the page and then on this side of the
+page they are becoming more and more of
+an affiliate site themselves so
+google pushing everyone hard towards
+merchant center and of course flights
+and hotels and you know rumors of car
+stuff and insurance stuff and uh all the
+other things where google wants to be an
+aggregator
+um it doesn't want competition either
+you know and so
+there's
+possibly some double dealing
+yeah i i do agree with that very much um
+because one thing one type of sites i
+mean we spoke about kind of
+um content that doesn't add a lot of
+value but there's also the content that
+just answers very shallow questions and
+that's something cool does already
+themselves uh and they do it pretty well
+and they don't need sites to do that
+necessarily so
+i do i do agree that there's an angle
+of maybe the primary intention is to
+just say what else can we answer
+ourselves but of course that has an
+impact on stuff like affiliate revenues
+uh data that companies can gather even
+from shallow questions and users that
+they can track well and the other thing
+kevin and this is something that i've
+been talking about a lot um is that and
+i say double dealing like it's bad and
+maybe it's bad but maybe you know google
+does i think have the best interest of
+the user um in mind um but when they
+can uh pull in a feed or host something
+in their cloud they can know that it's
+live and good and up and they can serve
+it more quickly and they can um
+transcribe it transcode it um into audio
+um or whatever and i think that that's
+kind of where they want to go with the
+future of
+uh connected devices internet of things
+mum multimodal search right when they
+post the info
+they can understand it faster better and
+serve it faster better
+yeah i think that google is definitely i
+agree the two things right on one hand
+raising the bar for the position zero
+type of queries that they were really
+looking to answer anyway and grab and
+and keep the traffic to them and then on
+the other hand the money-making ones at
+the end of the day they're also shifting
+to become a
+an e-commerce type of
+portal too uh competing with with amazon
+and we just saw like earlier today like
+an hour ago so yet another uh new
+release uh from them facilitating for
+anybody pretty much just using
+structured data to be able to make the
+most out of the product carousels and
+and
+now insert so
+i can so and and a lot of the updates
+that they have been doing also in the
+in the affiliate reviews
+um
+for a few
+since last year or so uh have been very
+focused on that that those that actually
+uh focus on those queries uh have
+original
+content originally review
+this product so originality and
+authenticity here
+and and and getting the bar higher uh in
+order to grab this traffic is certainly
+they're certainly a pointing to that
+then on the other hand uh definitely the
+way to go will be to okay hire experts
+to to write the content but if we think
+about it it's not that easy like the
+real expert will be actually doing
+that on a day-to-day rather than
+necessarily writing only writing about
+it so for example i i i get emails from
+time to time about like asking me to
+write something and
+and they would pay to me like no thank
+you i mean i'd rather focus on doing
+actual seo with my high paying clients
+and brands where i have grown brands and
+then whenever i want i
+i will share my my insights about that
+experience rather than being hired as a
+writer however i think that a good
+approach
+that we can see in our own sector is the
+one that for example content king has
+with their research they have a very
+well developed uh content hub
+they call it seo academy and what they
+have done is to cover every area or
+topic the major ones in seo nowadays and
+and and they have a
+uh their own seo
+writing the content and then this seo
+will ask for input
+of people specialize in that area so
+they they can actually have like this
+added value of real experts and the
+effort for the expert is actually
+minimal because it's it's just a little
+quote or or an idea or an experience in
+that particular area right and and then
+of course like you incentivize the the
+person with a link back the person will
+also share with their own audience or
+the community and usually these are
+influencers too so it's there's a
+win-win type of approach of course it's
+very easy one when the the the topic is
+seo and we are willing and and are very
+knowledgeable of the value of
+participating uh but uh i do believe
+that there are many different ways
+nowadays like with haro
+or uh other similar services out there
+to get input from from experts too
+another question or a dimension of
+thought that i want to add is that
+information gain looks very different
+based on the keyword or at least user
+intent right if it like one piece of
+information could just simply be looking
+for the results of a football game
+uh or soccer game for the fellow
+europeans uh and that's like there's
+there's
+the the the key piece of information is
+the score of course but maybe some
+information gain is the different
+statistics that a team got and like i
+don't know like the the
+intercepts or whatever
+um
+and uh it's but it looks very different
+right from the ecommerce perspective
+there's certainly the price but then
+there's also stuff like how does it fit
+how does it fit for a certain body type
+you know how so there's there's all
+sorts of secondary tertiary information
+that companies don't need to think about
+um to kind of quantify about what
+information gain really means and the
+the most fuzzy aspect is when it comes
+to a very complex topic that's covered
+mostly with text right so when you
+maybe write about uh
+why did
+i napoleon fail in russia or whatever
+right make something up something that
+needs a lot of explanation that's where
+my mind information gain is the hardest
+and it's the easiest when it just comes
+to providing users data that's very
+useful
+question here from amelia who asks does
+google take into account the expertise
+of the writer or just the originality of
+the content itself
+i'm gonna add a follow-up question to
+this how does this all factor into
+expertise authority and trustworthiness
+and what you've seen a lot of websites
+do where it's medically reviewed by
+x or
+you know trying to
+infuse the content to make it look more
+trustworthy
+what are y'all's thoughts on
+this oh yeah i've
+i've never actually seen an impact from
+having a specific expert listed as the
+source of the information i've only seen
+writing content around where your
+topical authority is you'll rank better
+that's like the master class example
+you'll rank for b wellington because you
+have topic recorded for grant ramsey but
+i've seen no impact from listing gordon
+ramsey as author versus master class
+editorial team versus no author um so
+that's my data
+i was just going to say that i think
+that that is what google is trying to do
+um but it's hard
+because like aleda was saying the
+topical authorities are busy being
+topical authorities and aren't
+necessarily also being authors
+um and so there are going to be people
+who write that that finding up whether
+they're the expert or not um so it's
+it's a it's a tough thing to do
+algorithmically
+i i i do believe that it's it's very
+hard to isolate right like because uh um
+for example lilly right she's she's very
+focused on eit she has
+shared quite a few examples in her
+experience where she mentions how um
+doing a set of improved
+improvements on on the articles among
+them
+listing a clear author and having like
+but these are usually also your money
+and your life uh type of topics where we
+know that sensitiveness is uh is a
+little bit higher than uh other type of
+of topics uh and and also like at the
+end of the day it's also very hard to
+let's say um
+at a granular level let's say uh uh
+isolate what is that that the authority
+of the outer the authority of the
+publication itself in general like
+things like
+the authority of the backlinks to uh
+pointing to
+to the piece things like that right
+however i have to say that um the clear
+signals you can provide of being an
+authority in that field that you're
+writing the the better will be one of
+the things that we need to keep in mind
+also i believe that google has done a
+really good job in this case and uh
+documenting the the update one of the
+questions that they they actually added
+there uh focus on people first content
+in in that section is like are you
+keeping in mind our guidance for core
+updates on and for products review so
+they all overlay and at the end of the
+day the internet the goal of google is
+is pretty much the same they want high
+value content there is expert expert uh
+written that is actually comprehensive
+that actually adds value etc i actually
+aggregated all of the questions in a
+group sheet that i that i share around
+to make it easier for us because the the
+difficulty that i can see from from this
+is many many times explaining to
+copywriters
+in a verse four
+way for them to double check to validate
+beyond the tools because indeed as i
+think it was uh e10 who mentioned before
+if we start adding the the the
+recommended number of keywords and the
+length uh in in in the piece uh well we
+can always work around and just have a
+listicle of keywords and that's it at
+the end of the day and it will pass the
+the
+the the ratings or we'll have good
+ratings i will pass the validation right
+but we need to to think about is this
+really comprehensive well it will answer
+in in a better way
+the need of the user searching for this
+versus all these other players that are
+already ranking for this query at the
+end of the day this is very context
+context-focused so uh what i actually
+will think about is like if there are
+many articles already ranking the top
+positions all clearly being written by
+doctors who had very visible credentials
+i i want
+to ensure that i have that too
+i don't want to be missing that for sure
+that's a good point and i really wonder
+how close beef wellington is to
+uh to what's his name um the chef uh
+help me out real quick um gordon ramsay
+thank you gordon ramsay uh on google's
+entity graph i'm sure they're not too
+far away and so this is this is kind of
+my take on on um authorship and how
+important it is to have authors i think
+that google can understand the com the
+connection between entities and if an
+author is an entity in google's
+knowledge graph then they can probably
+understand that but i do think the bar
+is incredibly high to be recognized as
+an author or an important person in the
+eyes of google right so
+uh you know like
+there's probably some some credentials
+or some publications or some sort of
+media attention that you have to have
+for that
+um two examples someone had really quick
+to make this practical is the two sides
+that that do this that highlight authors
+uh and they do really well one is
+healthline um a
+very very successful site in the medical
+space and the other one is forbes
+advisor uh which has gotten a lot of
+attention from seo seos recently because
+they rank for best truck tires or
+whatever they've been crushing in
+general lately and and i don't think
+that they've been crushing it because
+they highlight the author that wrote the
+article but because they first of all go
+to length to show how often the article
+was reviewed and by who it was reviewed
+and those are typical subject typically
+subject matter experts by the way chewie
+does that as well they have a i think
+it's a pet disease content hub or
+something that's uh that has content
+reviewed by veterinarians and and third
+and this is i think the most important
+piece is just that the content is better
+because i do believe that it was
+reviewed by experts so it's less that
+google says oh it was reviewed three
+times and oh these people have a doctor
+title but i think it's much more that
+the factual the facts are correct
+and the information gain and depth of
+information is pretty high on these
+articles that would be my take
+yeah i agree with that i think that
+obviously as seos a lot of people are
+are trying to understand the ways that
+the the algorithm works and look to
+expedite gaming
+the potential systems that
+the algorithm is looking for
+and i think a lot of that
+time
+what seos might end up doing is chasing
+chasing the wrong signal
+and i think in this particular case this
+is one of those ideas where
+you see a lot of top websites whether it
+be chewy
+healthline right where they do these
+medically reviewed by and people see
+that and say wow that that must be right
+the the rationale of why this page is is
+doing so well and they look to
+basically replicate that that sort of
+experience but i think to build off of
+what you were saying kevin it's it's
+really that because it's been reviewed
+by a lot of experts there is a lot of
+good evidence-backed suggestions and
+statements that are being made
+and you know oftentimes people people
+just want to eat the cake and not not
+really do the work and i think that's
+that's what you see
+a lot of people then chasing the wrong
+signal and saying okay well i need i
+need that but really
+you know a lot of the best articles they
+don't necessarily need that reviewed by
+this expert they just need to have that
+right structure and that right brand and
+that right user experience where you
+know when i land on an affiliate site
+i want to know why i can trust you and
+what was your evaluation criteria that
+you took to make these decisions and i
+want to see photos of you actually using
+each one of the different products and
+really showing me that you did a good
+job in this evaluation and you know a
+lot of people and affiliates just slap
+on uh well you know kevin indig reviewed
+this and they're like that should be
+good right and it's like no no like you
+got to do the work and i think you know
+this
+update is google's way of
+currently kind of putting some pr behind
+what they want to influence us as as
+content creators
+and i think it's it's very similar to
+what ethan has like stated in his
+initial like thoughts on helpful content
+it's very likely that this is like you
+know version 0.1
+and you know we're going to see google
+continue to build on top of this like
+framework that they've had
+and i think just lots of good thoughts
+like going around here
+i think that it is really worth it here
+to be proactive right i i mean if if we
+know that google intent and goal is to
+try to sort of replicate human
+assessment of value
+and and satisfaction and let's try to
+identify as much as possible all those
+signals that we use and we certainly
+want to integrate within our work and
+effort in order to be best in class
+right i don't want to wait until google
+confirms that they use x or y as a
+signal just for me to start doing it i
+know that i want to give the best
+experience to my clients to my users in
+the website this actually goes
+most of times like well aligned with
+user ux right
+and and with a lot of other uh let's say
+uh good practices in general to to to
+provide the best expectations or to
+fulfill the expectations of of users
+right so i will try to as much as
+possible to align my work with the
+product team with ux team in order to
+whatever we can highlight and show to
+users that we know that will
+improve the conversions anyway and help
+to achieve results i i'm all for it
+there's also this concept that's going
+around with kind of blaming the internet
+and social media and google and and all
+the big players for kind of dumbing down
+content and rewarding the lowest common
+denominator or just rewarding engagement
+that is not necessarily with high
+quality content and you see that even
+with guidelines that come out about um
+people
+who write complex sentences oh like
+google doesn't like complex sentences
+and yeah google's algorithm you know has
+a hard time parsing a complex sentence
+so that kind of makes sense but at the
+same time we don't
+if if i'm google i don't want to just
+reward sites that write jane likes beef
+wellington jane wants to cook beef
+wellington you know jane needs 10
+ingredients
+you have to i think that they it may be
+a backing off
+of that kind of simplicity or a more
+rewarding of
+that is
+a bit more nuanced um and that would
+if i were google i would want that
+because i would separate myself from
+um maybe facebook or or things like that
+because you do see like in google
+discover some really
+lowest common denominator content coming
+in and it's because of just kind of
+engagement and if you want to separate
+yourself from just rewarding
+that kind of thing you would do what
+they're doing now or what they're the
+way they're communicating it that's
+that's what i would be going for
+i i want to circle this back around to a
+lot of q a that's that's been popping up
+i know we're like kind of dancing around
+this whole information gain
+uh topic but justin asks okay but how is
+google going to determine original
+thought right back to this information
+game thing you know really to say okay
+if we're going to put on you know our
+seo like crystal ball hats here
+how are y'all thinking about practically
+speaking demonstrating to google that
+you have
+content that has information gained
+since
+you know a lot of it could be
+very subjective and measuring
+originality is is something very
+difficult at least potentially difficult
+for ai to accomplish
+i have i have thoughts on this so
+i think the the answer that sounds good
+is good engagement you found your answer
+you go back to google but those have
+already been signals so i don't think
+that's the full solution
+i think the solution is around uh
+uniqueness and and useful uniqueness
+so
+the the way that the algorithm currently
+works is there's a few specific or
+there's labels that a machine algorithm
+machine
+machine learning algorithm trains for so
+like these three results are great so
+every anything that is as similar to
+these three results is also great
+which means everyone's rewriting each
+other's articles and therefore the
+system incentivizes everyone to rewrite
+each other's
+articles
+so then you want uniqueness but you want
+useful uniqueness so if you think about
+a camera if you have on a camera and you
+have the word tangerine and nobody else
+has the word tangerine that's unique but
+it's not useful uniqueness but with for
+that camera you're the only one that
+talked about low light photography
+that's useful uniqueness and so the way
+that i think that they would do that is
+they would know that low light
+photography and camera are close to each
+other in their knowledge graph and
+tangerine's way over here so my guess is
+that they're going to be looking for did
+you mention subtopics and themes that
+others didn't but it is you know uh
+closely uh uh associated within a
+knowledge graph is my guess
+yeah i agree on the knowledge graph i
+don't think this is so difficult for
+google to be very honest and blunt uh i
+think that the one of the big questions
+in this whole conversation is also
+what's the
+um
+the stack rank of the signals or how do
+they relate to each other and i think in
+the past even though it was often an eye
+it was like a big impact from from
+backlinks i'm not saying that's
+necessarily going away but you know for
+originality to make a bigger impact you
+can also just turn other signals
+slightly down or that originally
+slightly up but google should already be
+able to understand what information a
+piece of content has especially after
+transformers and mum i mean this is this
+is
+based text mining on steroids if you
+will
+so that should be very obvious to google
+and then another signal to pair this
+with because not every signal lives in
+isolation
+is the behavior of of users uh and so if
+you go back right if you if you start
+with a very high level topic or a very
+very short query you read something and
+you go back and you enter a longer query
+that that is more targeted google can
+understand that perfectly fine right
+this is how a lot of personal
+personalization works
+um and they can measure very well but
+what that looks like after people have
+visited a certain piece of content so i
+think there's several signals that
+balance each other that help google to
+make the right call
+and from a tech from a purely technical
+perspective i don't think that is this
+is something
+groundbreakingly new i think is the
+signal that google has decided to amp up
+because the content quality is often so
+bad
+i'll just throw one more thing in and
+that is um the content frequency so
+even though this is another thing that
+google denies that you know having an
+aggressive publishing schedule where
+you're publishing every day
+google says that doesn't help you
+but i think that in some cases it does
+create some benefits or has created some
+benefits but if you're the original
+thinker the original creator the
+original
+um
+uh author you might not be publishing
+every day and that's okay
+so i i tend to see this and perhaps
+differently than the other panelists i
+see it a little bit as an easing off of
+some things that have been maybe not
+direct signals but secondary uh signals
+and rewards
+in in lieu of things that are harder to
+create with ai or create with a team of
+um regurgitating writers
+yeah speaking of ai you know that's been
+a a topic that's been highly speculative
+highly you know sought after so let's
+talk about ai what are what are your
+thoughts about ai content as it relates
+to seo this concept that we're talking
+about information gain
+and you know i start with kevin you had
+a really great blog post recently that
+talks about basically the pros and cons
+right it's not a do it or don't do it
+it's a it depends on the situation ai is
+really good for certain classes of
+content more specifically definitional
+things right things where i would say
+you know and this is back to that
+content uniqueness idea
+ai is really good when us as human
+beings have all decided that
+x is x right the first president of the
+united states is george washington and
+ai is really good at that so
+anyways what are people's thoughts about
+how ai
+specifically you know content
+created by stuff like gpt3 is going to
+influence seo content moving forward
+we'll start with you kevin
+yeah thanks for for setting the stage
+bernard um as already mentioned i think
+we really have to talk about the types
+of content and what the role of content
+is it is not always the product or the
+thing itself it can sometimes also just
+be adjacent or supporting
+the main
+um role of the show or the main piece of
+content which the e-commerce for example
+is the product right and then you have a
+lot of content around that describes the
+product or gives you helpful secondary
+information that helps with information
+gain and for things that are not already
+complex ai already does a good job and
+this is something i changed my mind on a
+lot before i saw you know uh more
+practical examples i actually thought
+that you know when when companies have
+ai they all kind of create the same
+content and then google just devalues it
+like they devalue links um
+and i don't think that's true i think
+what's actually happening is that some
+companies are figuring out how to do
+this and do this well for certain
+types of you know purposes and certain
+types of content
+and uh
+it ranks pretty well so in this um in
+the light of the helpful content update
+and previous statements by google
+spokespeople
+there was this notion that google hates
+ai content and so i paid a lot of
+attention
+uh on sites that lean heavily on ai
+content to drive organic traffic and
+that traffic has only increased during
+the helpful content update at least that
+definitely hasn't tanked and so to me
+that goes to show that if you do it well
+and if you do it right then there's no
+problem with ai content why should we
+even why should it matter who creates
+the content it doesn't matter if it's
+machine or human all that matters is
+information gain and is it useful
+100 is how you use it actually i want to
+add here a scenario that i see a lot
+with
+clients that tend to go through the
+internationalization
+uh
+most of translations tools at this point
+leverage automatically uh translated
+uh or automatic automatic translate
+translators like dpl amazing quality
+already or we load for example like they
+integrate into the translation
+translator human translator process or
+workflow uh to facilitate their task
+and they can have that as an input that
+doesn't mean that
+the content will be completely
+translated by by ai completely by the
+tool by translation but that it will be
+much easier for the translator to go
+ahead and do potentially i don't know 10
+pieces per day rather than than five or
+four right so i can't definitely
+accelerate the process and it shouldn't
+be detrimental for the quality rule
+right i i believe that there's this like
+good uh sweet spot as as kevin mentioned
+i i i it makes me remember a lot with
+templated content back in the day right
+like oh is templated content good or bad
+oh it depends on how you actually
+leverage it and how smart you are how
+creative you er
+you are in it what are the criteria that
+you take into consideration to generate
+it right and do you use stats do you use
+your unique insights like et cetera et
+cetera so exactly the same is how you
+use it how you include it what type also
+what type of content it is in what type
+of of pages
+is this content actually valuable to
+answer the doubts at that stage of the
+journey independently if it is 100
+original or not so
+there's a lot to be said there and um so
+i will highly highly recommend people to
+think to be creative about it to think
+how you can leverage it rather than
+leave it on autopilot which is
+definitely not great uh how you can use
+it to accelerate the process of content
+optimization content translation etc
+yeah just building on that the way that
+i think about it is that there needs to
+be underlying wisdom and so especially
+if you have structured data and an
+example would be a sporting event and
+you talk about the score and somebody
+you know uh somebody made a basket at
+this particular point in time that's all
+structured data and that can be
+generated you can generate sentences
+based on underlying wisdom which is
+which is that structured data we
+invested in this one company called with
+power.com and they uh extract structure
+from clinical trial information and
+generate sentences uh based on that and
+that has underlying wisdom we then also
+tested uh generating product
+descriptions for products and i remember
+gpt3 said that a particular soap was
+oxide free but it wasn't oxide free and
+if you
+need it to be oxide free that would be a
+big problem and the more nuanced it is
+and the more it's based on uh personal
+experience that google mentions did you
+use the product uh if you need to have
+you use the product to see if it's
+usable you don't want gpt3 telling you
+whether or not a product is useful you
+want a human telling you that so i i
+think it needs to have underlying wisdom
+and some things have structured data
+that you can automate
+having underlying listen and a lot of
+stuff does not
+all right we have quite a few open
+questions i'm going to make this more of
+a rapid fire type thing kind of throwing
+this to who i think might be like the
+best fit in answering but if you have
+additional thoughts kind of chime in and
+let's let's make this happen so
+anonymous asks on the topic of expertise
+what's stopping organizations from
+hiring journalists to do journalism i.e
+doing deep research chasing experts for
+quotes and context or publishing long
+explainer features like vox and other
+journalistic publications i'm going to
+kick this over to you ethan since you're
+really deep into the content space right
+now
+it's i think it's the business model so
+that costs money and again if you have
+100 articles and you and five work and
+you don't know the five and you cannot
+afford to pay that writer if you do know
+the five then you can afford to pay the
+writer so the business model and
+selecting the topics that are likely to
+perform is number one and then number
+two is that a lot of times journalists
+don't want to write content that's
+search friendly
+so
+struck so suggesting to the journalists
+these are the general subtopics that
+users are interested in versus hey
+please you know stick these keywords in
+guiding that journalist to answer
+questions that use that that users have
+but still have journalistic integrity so
+the process of working with that
+journalist those are the two main things
+but i think that both of those can be
+done if you have a better process
+awesome
+all right another anonymous asks think
+google should bring back authorship tags
+to determine the value of writers for
+determining expertise if someone who is
+an expert at the cdc is writing on a
+news site about virology should it be
+promoted more than an intern writing in
+the editorial column on that site
+should the power be in the author's
+topical authority expertise or the power
+to be in the domain for what it's
+labeled as i'm going to kick this over
+to you cindy what are your thoughts
+yeah so i number one i think that the
+author tag um
+was educating google about where to look
+for author information and now that um
+you know it's changed and
+not as necessary that doesn't mean it
+goes away i think google used the
+information and now they're just better
+at finding who is the author and
+ascertaining uh information about that
+author and connecting it to the topic i
+think that every time google does
+something like that it's just asking us
+to code stuff so that it can train their
+algorithms to know where on the page and
+the site to find that information so
+authorship still matters the one thing
+i'll caution is that i think that we
+on the internet through around
+authorship quite loosely um that anyone
+can be an author and publish things on
+the internet um but if we think about
+separate being an author online and
+writing stuff that anyone could publish
+online
+versus writing a book or writing
+something that has to be published by a
+publishing company um that kind of
+authorship may carry more cachet in
+google's mind and so not just lumping
+all the different authors together
+and
+yes i do think that google has the goal
+of connecting authors credentials with
+what ranks where on the example earlier
+that elena gave from all the phds
+writing about medical stuff yes you want
+um you want to have the right
+credentials and you don't just want a
+staff writer um
+transcribing what the actual expert
+basically said um so
+you know hiring the experts when you can
+is always ideal it's just like what
+ethan said the model doesn't allow just
+there are only so many experts and they
+only have so much time um and so they're
+expensive and hard to get and
+can you speak to the relationship
+between or creating original content and
+using keywords or other seo best
+practices are both still important i'll
+tack on like a follow up thing you know
+this idea of subtopic search intent zero
+keyword search volume right there's a
+lot of confusing confusion now around
+are you targeting keywords are you going
+after the long tail what are we doing
+i'm gonna kick this over to you elena
+what are your thoughts on this
+it depends on the goals of the business
+at the end of the day and what's their
+business model right like for some type
+of businesses it does make sense to
+develop topical authorities and at the
+same time that they are targeting uh
+more commercial queries to also develop
+the uh a content hub for their top
+topics for example and and indeed like
+the challenge here many many times is to
+on one hand uh pro like show the value
+of this type of content uh
+that
+will play a role uh through the customer
+journey indeed but won't necessarily
+like generate conversions right away
+right like it won't be at the end of the
+journey necessarily so it's important to
+a little bit educate and evangelize if
+the need of okay like if you want to
+establish yourself in your sector and
+you you want to be thought as a leading
+brand etc you need to stop like you need
+to develop this content and then on the
+other hand how you uh talk with uh
+writers in a way that you don't alienate
+them
+i think that we have had a lot of that
+for a while and seos in general i'm
+afraid that in certain sectors with
+copywriters develop this uh reputation
+right i remember quite a few years ago
+when i was it is a content conference in
+minneapolis and i was literally the only
+seo in the whole conference that was
+pretty much focused on content people
+and they they didn't make made a joke at
+the expense of seo ah yes and the seo
+comes and tells you add keywords
+oh my god that was terrible anyway so i
+think that we are long past that um with
+tools with content tools uh of course
+you you
+they provide us we chart those terms
+that are identified to be semantically
+connected relevant related but always
+whenever i start with a new process i i
+do this uh let's say a little bit of
+trading and and and workshop with the
+writers and and we go to practical
+um art like sessions uh showing like
+like
+does this make sense not because the
+other articles are ranking in the top 10
+already are mentioning this uh and there
+are quite a few times that they mention
+it it actually makes sense for you
+because maybe they have like dark like
+their diversity on the nature of the
+articles are ranked and you are not like
+these articles necessarily but these
+other ones so it's important that uh
+there's a good communication best
+practices yes but always with the final
+goal and this is something that i have
+found that writers appreciate a lot that
+at the end of the day
+they are the ones who are writing they
+know about the topic they are going to
+research that you can recommend and is
+highly advisable whenever it makes sense
+for the goal of the articles to include
+certain terms uh but it's not like a
+like red flag to oh you need to add
+50 keywords if you don't add them it's
+bad no
+sometimes it doesn't make sense
+sometimes it's not doable because of the
+the the role of that particular content
+of that particular piece and it's okay
+so it's it's it's important to have this
+sort of conversation and i i do believe
+that copywriters will highly appreciate
+you clarifying this very common doubts
+that it's not like back in the days like
+keyword here yes or yes and
+we need to move away uh from from this
+reputation indeed
+couldn't couldn't agree more a couple
+more the the highly avoided ones
+federico asks how much of a reaction to
+tick-tock being used more and more to
+solve queries do you think this update
+is i could not think of a better person
+than kevin to answer this because your
+recent blog post is more or less kind of
+talking about this kevin your thoughts
+my thoughts um quick answer i don't
+think they're two are related uh to be
+very straightforward um a like a signal
+that would have convinced me otherwise
+would be to see a lot more short video
+carousels in the search results or see
+just a lot more talk content in general
+but
+uh i think it's more like the anti-tick
+talk update if i really think about it
+because if
+we would transcribe like the majority of
+content on tick tock and rank that high
+in search results
+uh there would be a lot more conspiracy
+theory believers and a lot more fake
+news so i think actually tick tock
+really needs a helpful content update
+right now where fact check and content
+so short answer uh i don't want to hawk
+the mic too much but uh short answer is
+i don't think they're related and the
+content on the tick tock is disastrous
+mention that you write a hundred pieces
+and five will work how do you pick the
+five is it based on volume intent
+difficulty to rank garrett then has a
+follow-up question when you get to a
+more focused approach do 10 maybe 20 out
+of the 100 begin to work
+it's certain two things it's search
+volume at the topic level and it's
+topical authority
+versus difficulty so when i say topics i
+mean uh for something like butter
+lettuce that the master class article
+ranks for 500 different keywords and the
+sum of all the sum the volume of those
+500 is the volume of that topic so
+that's the topic volume number one and
+then it's topical authority versus
+general keyword difficulty versus you
+know domain authority so if you're known
+for to the gordon ramsey example if
+you're known for gordon ramsay then
+you're going to be very topically
+authoritative and competitive for beef
+wellington so it's a combination of
+total volume times probability to rank
+equals expected visits
+and then also ideally you have some sort
+of conversion intent you can factor that
+back in and then you can have expected
+traffic times uh conversion equals
+expected conversions
+okay to add on that because topical
+authority has been thrown around quite a
+bit in in this discussion how do you
+know you have topical authority and
+where would you go to figure out
+what those very related subtopics that
+you have a very high chance of placing
+for quickly look like
+for the first one
+all you need to do is go to google
+search console download all your
+keywords and then do engrams on them by
+that i mean chop them up into one two
+word phrases and that's your topical
+authority the inputs to that are branded
+search the master class plus gordon
+ramsay gordon that's like a back link
+with rich anchor ty scored ramsey uh
+backlinks with rich anchor text those
+are the inputs shares of popular posts
+and what the post is about those are the
+inputs but the short answer to how do
+you know literally just download all
+your keywords and that's the answer
+topical authority how do you find
+adjacent topics that's a little bit
+harder so that you need to use keyword
+tools and use some intuition and
+stuff like that there's not really an
+automated process it's sort of
+mostly art and some science i think you
+know google has their own knowledge
+graph so ideally you would just be able
+to download their knowledge graph but in
+lieu of that you need to
+sort of
+make some guesses and use intuition
+somebody should build that tool though
+somebody should all right i'm gonna then
+conclude with the final question from
+anonymous i'd love to hear what new
+directives or expectations you've given
+to content writers on your team to your
+clients to the people that you're
+working with other seos
+everybody let's close it out with this
+maybe starting with the cindy
+what are some new directives or
+expectations
+well so with the helpful content and
+then september update we've always
+assumed that helpful content is
+something that
+is going to be uh impacted by september
+update and i think it will but also
+looking backwards um in the launch of
+pros and cons i wonder if having nuanced
+uh
+perspectives is also considered helpful
+um and so marking up your pros and cons
+that's kind of where i'm going right now
+and making sure that you're giving kind
+of balanced information with pros and
+cons that usually seems helpful to me so
+that's kind of where i'm going
+yeah like
+the main goal that i have uh already for
+a while and i rinse that every single
+time it's like is this the most
+comprehensive embarrassing class
+uh
+piece of information that deserves to
+arrange all of the other players that
+are ranking at the top at the moment so
+that should be like the north start and
+and whatever it is required depending on
+the intent on on the type of the format
+and of the the query and the serps right
+like let's try to leverage that and make
+the most out of that many times it will
+be to ask for testimonial to power users
+are for ask for reviews or integrate
+reviews even to act other times it will
+be to ask for input from experts for
+example so it can't take it might be
+different depending on the nature of the
+content uh of the type of content
+uh but i think that as a good approach
+you will be have that as a north star to
+be the best of those that are already
+ranking add something extra add
+something more on one hand and and then
+on the other hand uh like understanding
+what are the opportunities within the
+serps which are your competitors that
+are ranking the top positions not only
+in the organic ones but also in the
+video carousel if there is any uh people
+also ask like pay attention of what is
+in the serps to leverage and and learn
+and integrate as much as possible in
+order to perform and to be the best
+answer out there
+yeah no i guess i'll go next i think
+that to keep it short and simple
+really think about your above the fold
+experience tons of people get this wrong
+you kind of see it and like oh how do i
+do this and then you have an h1 that's
+what is this and i'm like ah come on
+that's not why the the users here or you
+know the the concept of hero images
+right lots of people just put random
+hero images in in the top spots and it's
+like well the user doesn't really care
+about that so really just hone in on
+okay when a user clicks onto your site
+can you give them the most useful
+relevant information as quickly as
+possible
+pass over the mic to ethan thoughts on
+directives
+the main directive is to cover all the
+subtopics and to be comprehensive so for
+the butter lettuce example try to
+understand what 500 keywords you're
+actually targeting and what the themes
+are so like health benefits comparing
+with other kinds of lettuce recipes and
+make sure that you cover all of those
+subtopic themes
+subtopics versus uh keywords so don't
+over optimize for you know an exact work
+counter
+adding these specific keywords
+understand the general themes and
+subtopics and talk about all of them and
+fulfill the intent of the whole keyword
+cluster of the topic but in general we
+don't suggest to writers anything at all
+about seo it's more about this is the
+outline and these are the sub topics and
+themes and questions the users have
+write a really good article and we don't
+even talk about lcl with the writers
+there's a good question i haven't
+changed any guidance so far at all
+because the the data is still not out
+there right the september update is
+still running we still don't know what's
+punished and what's changed right
+imagine just on google's announcement i
+would have you know given guidance to
+the companies to
+go to extra lengths invest more budget
+do all the stuff and then we see it's
+just some like lyric site being
+penalized it already sucked uh so
+i i'm very cautious but you know the the
+one thing that that weighs on my mind a
+little bit is
+to to you know if it comes to stuff like
+content briefs right um to add a
+question along the lines of like houses
+different than everything else right
+like what's the unique thing about this
+piece of content or what's the unique
+insight that people take away that they
+cannot get anywhere else
+kevin thank you so so much for for
+joining us
+i got a kick out of just hearing all of
+y'all's opinions thoughts perspectives
+and i'm sure that our audience did too
+there were so many good questions that
+were asked so much good discussion we
+definitely need to do this again make
+this happen again we'd love to have you
+all on for an on encore you know whether
+that's when google announces random
+stuff or just regular programming we
+would love to have you here thanks so
+much for joining us
+and any concluding thoughts opinions
+questions from any of you all panelists
+thank you for getting us all together
+yeah it was great to speak yes we'll do
+it again take care everybody thank you
+bye thanks bye
+now before we wrap this up don't forget
+to share like and subscribe so you don't
+miss out on more great content from the
+industry's best seos content marketers
+and content strategists the clearscope
+webinar series happens every week and
+helps seo content creators of all skill
+levels advance their knowledge hope to
+see you tune in next time

@@ -1,0 +1,1512 @@
+EXPERT: kevin-indig
+VIDEO TITLE: Dominate Organic B2B Growth in the AI Era
+VIDEO URL: https://www.youtube.com/watch?v=Aj6XR_1Ya2E
+------------------------------------------------------------
+
+boom okay here we go we have people
+joining which is awesome um Manan if you
+can let people in as they're joining too
+that would be great if not I'll just
+keep uh I'll keep an eye on it as well
+but we can get things
+started cool okay welcome everyone if
+you're watching this on LinkedIn uh good
+to see you if you are here with us in
+the zoom room even even better you will
+all be able to ask your questions and
+get things out in in real time if you're
+watching on LinkedIn Manan and I will
+start to share the zoom links as well so
+feel free to come and join us here in uh
+in the zoom room for everyone that is in
+the zoom room I see actually as of right
+now there's already like 20 of you but
+none of you have your cameras turned on
+I don't want to be that guy that forces
+you to do it but I'm kind of going to
+ask you to do it if uh if you can
+because like the whole reason why we
+want to host these in a zoom room like
+this is so that we can see you guys uh
+and so that you can be here ask
+questions and be involved rather than it
+being like a typical webinar where
+you're just like tied behind a chat box
+kind of thing okay cool a few of you are
+turning on which is awesome thank you
+Adrian Seline Ramsey Atif good to see
+you all here cool I am going to get
+things started so today we have pretty
+uh pretty special guest with us for the
+second in our series of like live AMA
+sessions I'm not going to do like a
+super big corporate style intro because
+I think if you're here you probably know
+who Kevin is already um but but we're
+going to talk a little bit about SEO
+content organic growth into 2024 and
+2025 ask him some questions I have a
+bunch of things I want to find out I'm
+sure a lot of you here have a bunch of
+things you want to find out as well
+Kevin maybe for those if there is anyone
+watching like the recording of this on
+LinkedIn right now who doesn't know who
+you are I didn't to be honest I didn't
+know like how to start with an intro cuz
+I can start to share some of the like
+really cool companies you've been
+involved with but there are so many I
+don't know which ones to pick so like
+leading SEO at Shopify that's pretty
+cool like uh Dr being involved Dropbox
+is pretty cool G2 like a bunch of these
+others how do you intro yourself now uh
+if someone's like hey what do what do
+you do man I always struggle with that
+um and by the way thanks for having me
+oh of course how would I intro myself um
+essentially I'm doing two things that
+might be interesting for the audience
+one is I advise companies as you
+mentioned like Dropbox um hymns Reddit
+Snapchat next story Etc um the other
+thing I'm doing is I'm writing a Weekly
+Newsletter called the growth memo where
+I share some of my observations lots of
+data it's essentially premium SEO
+research um it helps people make better
+decisions and understand the SEO
+landscape uh in a better way those are
+essentially the two things that I'm
+doing there's you know could probably
+ramble for a long time but uh I don't
+love talking about myself that much and
+I'm sure the audience has better
+questions so very excited for uh to
+answer some of those cool yeah we can we
+can move away you don't have to talk
+about yourself don't worry let's uh
+let's let's kick into things okay for
+anyone that's just joining now in the
+zoom room as well uh go ahead turn on
+your camera like uh unmute yourself when
+you want to ask a question but don't be
+that person that's going to like leave
+yourself unmuted the whole time and have
+a load of noise in the background but if
+you have something to ask please like do
+it jump on the screen wave like wave at
+me a little bit if I don't spot you and
+I'll I'll I'll call you up Kevin I I
+want to get started with like okay
+this last year or a couple years
+probably the topic and the thing that
+everyone is asking you about and leading
+with is uh is like the impact of AI not
+just in SEO but in marketing in general
+so I'm not going to ask you what you
+think of the impact of this because it's
+a pretty shitty question that I'm sure
+you've been asked like a hundred 100
+times already but what I do want to know
+from from my perspective like I run a
+performance marketing agency we work
+with 30 SAS companies right now have
+some really great clients but I don't
+know I don't know anything about uh SEO
+right aside from what I see and read on
+like Twitter and on and on LinkedIn
+something I wanted to ask you when I see
+all these like SEO Bros or like Tech
+Bros on Twitter that are flexing like
+screenshots of all these extra 100,000
+visits that they've got from all of
+their AI generated SEO focused pages and
+uh programmatic SEO and different items
+like this does does that actually work
+is that a real
+thing yes I know um okay so look
+um I think it can make pretty quick
+progress with very mediocre content in
+very uncompetitive spaces right so if
+you for example write about horoscopes
+or I don't know some like definitions of
+very basic terms or that kind of stuff
+right there there's a lot of traffic
+volume behind those things and it's very
+uncompetitive I would say so there are
+these spaces and that's that's a good
+space to test some stuff out right I
+don't want to diminish that altogether
+but the real question here is if you are
+a Fortune 50 company or let's just say a
+Fortune 1,000 company doesn't even have
+to be that right if you are a public
+company
+um do you have efficiency gains from AI
+right should you leverage that so
+there's always going to be the you know
+type of websites that somebody spins up
+to test or that you know to to maybe do
+some make some affiliate money or some
+Drop Shipping that's a that's one area
+right and you can probably again with
+very mediocre AI content uh Drive some
+traffic there but the question is how
+does it work for um other types of
+businesses bigger businesses and in this
+case I would say there are legit use
+cases where you can use AI to create
+content I've done it with a bunch of
+companies a bunch of companies that I've
+mentioned actually uh and you can get
+pretty good results but it doesn't work
+in every case and it certainly isn't a
+one minute thing it certainly isn't a
+prompt where you say write a blog
+article about you know um let's just
+pick a real example
+about how to advertise a car dealership
+business right like that that's just
+that's not going to work the the
+instances where it works really well is
+when you have very clearly Define
+guidelines for example um a a glossery
+would be a really good example right I I
+worked with ramp ramp is one of the
+fastest growing fintech startups in
+history and we build a glossery for
+accounting terms and we build the
+majority with AI now I'm saying the
+majority because I think it's important
+to understand that AI is especially good
+at building a
+foundation um and then you probably want
+humans to make it really good um but
+that's that's where legit efficiency
+gains can come from right that's where
+companies save money and time and can
+act faster um and so there are a bunch
+of other instances where you can use AI
+to create content but also to improve
+content sometimes uh or to mine data and
+create better content on top of that so
+bottom line here there's some real
+efficiency gains to be had from AI it
+can really speed up your work um and it
+is not yet this TurnKey solution where
+you write one prompt and then all of a
+sudden it builds a whole website for you
+right it's it's very targeted specific
+gains right okay yeah cool thank you
+thank you for that and so like let's say
+this doesn't necessarily have to be AI
+related or not but let's say someone's
+watching this right now or someone maybe
+in the zoom room we can even take like a
+real world use case in in a minute but
+let's say they are maybe a solo marketer
+at a seed stage or series a stage SAS
+company or something like this there's
+so many different things on their plate
+of like okay should I be um should I be
+expanding out our ads efforts should I
+be doing more with Organic and content
+should I looking at influencer
+Partnerships or other things there
+there's so much that's going on right
+and the the what feels like sometimes
+the the easy option could be okay let me
+lean into AI to spin up a bunch of new
+blog posts for us put them on the
+website very quickly Etc if someone does
+that are there risks associated with
+that uh that you like truly know about
+right now because I know a lot of it is
+like we truly don't know in a lot of
+these cases either right I see it on
+Twitter like people that had a bunch of
+traffic then suddenly all disappeared
+like are there any risks like that that
+you would say to someone hey like let's
+not uh let's let's not go down that
+route first instead let's focus on using
+it for efficiencies optimizations and
+and things like that
+instead yeah I think it's a really good
+question because on the one hand you can
+create really bad AI content whether
+that's text or images or videos and on
+the other hand I think most people would
+be really surprised how good some of the
+AI content can be if you invest the time
+so both is true at the same time um and
+it depends a little bit on the effort
+you put in the prompt you put in maybe
+the tools that you use but um there's a
+startup that is in a very technical
+space they do real time analytics uh for
+basically infrastructure analytics um
+and we created the I would say 80% of
+the content with AI and it it was really
+really good and it was so good that I
+went to the CMO and I asked them I asked
+him um to um I presented him two
+articles and said okay which one do you
+think is written by I and he couldn't
+tell the difference and I actually
+recently ran that experiment on Twitter
+as well uh was a bit you know um a bit
+controversial but essentially presented
+my Twitter audience to AI written pieces
+of article and asked which one is
+written by an AI and which one is
+written by human but the point is that
+nobody I think maybe three out of 100
+people understood that both are actually
+written by an AI so if it's done well
+the difference is hard to understand
+however to address your questions to
+address your question there are risks
+there are risks and I think these risks
+are not very different than the risks
+that you get if you try to scale um
+content written by humans in a very
+sloppy way right if you Outsource it to
+you know people who maybe take few cents
+or maybe few dollars for an article and
+they don't put in the work and they they
+don't do the research Etc I think that
+can lead to the same outcome where your
+traffic goes away or users have a better
+experience and so the question is um no
+matter who creates the content how do
+you monitor whether it's a good
+experience or not and I think that's the
+bigger question and it can really help
+you in terms of AI so some things you
+can do for example is to measure if
+people scroll through the article if
+they read how much time they spend
+reading the article and if they take
+action so you could for example run an
+experiment where you say okay we have a
+Blog maybe it has I don't know 100 pages
+on it they were all created by humans
+that's published five or 10 articles
+created by Ai and then measure the
+difference and engagement with the
+articles that were created by humans and
+that gives you a little bit of a gauge
+or a little bit of a um feedback signal
+to understand whether the quality is
+good enough for users or if you have to
+put in more
+work nice okay yeah that's great really
+great advice thank you uh like I see
+Manan is typing a few things in the zoom
+chat as well like in
+short keep bad quality content and Bots
+uh away from from what you're doing okay
+like I have a few things let's go I've
+got like a note book full of questions
+here but I want to make sure we open
+this up AMA style and format like we
+like we promised and to be honest the
+the last session that we did of this
+this is where it was most enjoyable so
+uh we have few people in the zoom room
+few of you have your cameras on which is
+great A few of you don't if you want to
+ask a question let's do it this way
+because there's probably going to be a
+couple so if you
+could put your hand up like either like
+your real physical hand if you want to
+do that or in the zoom section there's
+like the hand emoji that you can use we
+do this at hey digital when we have like
+questions and I I'll take them in the
+order that they uh that they come in
+okay so first one Atif let's go to let's
+go to
+you perfect thanks for having me Dylan I
+think a question for Kevin here I've
+been doing SEO for B2B space for a brief
+period as well and one thing that I've
+noticed Kevin is when we initially
+started B2B was all about traffic
+getting most getting the most amount of
+traffic worked great the conversation
+then shifted to bottom of the funnel
+keywords and then it started it
+transitioned onto your competitor Pages
+Alternatives it moved on to your AI
+content so I'm just trying to understand
+what is the next big thing with regards
+to a B2B SAS uh because when I'm doing
+SEO for clients I feel it's a lot more
+to do with regards to your uh
+positioning your USP which is very
+specific to a client right and not a lot
+to do with regards to SEO per se we
+could have n number of tactics but I
+don't really see something significant
+happening within the B2B space so just
+curious to know like what are your
+thoughts on that yeah it's a great
+question a thanks for asking that um so
+I think all of the things you mentioned
+are um powerful and would probably still
+do all of the things you mentioned right
+um starting with a strong bottom of the
+funnel competitor or or compare and
+Alternatives Pages um maybe some AI
+content um and then one thing that I'm
+seeing happening more and more is a
+convergence between quote unquote SEO
+content and product marketing content so
+what that means is I mean SAS is
+incredibly crowded and even if when new
+I mean right now there's lots of
+tectonic shifts happening due to AI so
+new Industries and markets are opening
+up but even there the the the comp
+competition very quickly grows just look
+at like how many AI writers there are uh
+and you know many great of them I'm not
+saying they're all bad I'm just saying
+like it goes really fast and so um one
+critical aspect that companies need to
+lean into in that environment is
+differentiation so how are they
+different from everyone
+else that doesn't always mean that they
+should not write about the same topics
+from an SEO perspective that their
+competitors write about but it does mean
+that they also need some content that
+helps them stand out from the crowd and
+that content doesn't is not always
+optimized for search it can be things
+like data stories right like here are
+here's some reports on the AI writing
+industry or here are some uh best
+practices that our clients have created
+from a Content perspective it's not
+always easy to optimize it for a Content
+uh sorry for a keyword and you might not
+always want to so I see as a kind of
+evolving Trend in especially B2B SAS
+that companies lean more on what we
+might call thought leadership what I
+would call probably more product
+marketing where they mix search
+optimized content with more pieces that
+are not addressing an exact keyword but
+that are really interesting for their
+target audience and so key there is
+obviously to talk to your customers
+understand what excites them what
+problems they have um and and what
+they're really curious about and then
+you find these topics where they're like
+yeah you know what I actually just want
+some inspiration I just want to see 10
+examples of what I can do here or maybe
+10 things that I should avoid um and may
+maybe there's a keyword like the you
+know uh AI content examples but
+oftentimes it's not and I think it's
+that space that is interesting that
+moves the needle but that is a bit
+difficult sometimes to quantify in terms
+of impact because you don't have the
+search volume and that's where you need
+that's where you have the advantage of
+being a young startup where you don't
+need to opportuni size everything and
+put everything on the scale but you can
+take a couple of bets and risks and
+create that type of content and that
+typically works really
+well all
+right and I think Kevin what about
+distribution because uh usually startup
+small scale do not have a lot of
+distribution so they might be okay with
+n number of channels working out for
+them but uh should you quantify that
+saying like hey you you got x amount of
+referral traffic even though that could
+have later contributed to SEO should you
+be going to that level of reporting or
+should you just stick to just SEO it's
+only good question a um I think it's
+hard to Benchmark because several
+options work I don't think there's a
+perfect Playbook I think there's there's
+several and so I think the question much
+more
+is which channel to start with and when
+you know whether that channel works for
+you or not and so SEO um unless you're
+in a very new and evolving industry has
+gotten insanely competitive and I
+actually am not sure if it's the best
+channel to start with um I wonder if
+sometimes you know more um webinar style
+content video content can work better
+sometimes even social content I've seen
+I've seen more companies that grow on
+social again not as it's more like a
+Kickstarter right like igniting the fire
+rather than keeping the fire going but I
+see some good Founders posting some
+really good stuff on LinkedIn and
+Twitter gaining a little followership
+and then getting some early customers
+and it can work really well because it
+is founder Le meaning the founder has a
+very direct Conta contact uh with the
+audience which helps the founder to then
+improve the product um so I think there
+are several ways right SEO is one way um
+and uh the more important question to me
+is at which point do you either decide
+that the channel doesn't work for you or
+you decide that the channel is maxed out
+and you need to expand into another
+channel so a good combination that I'm
+seeing a lot more again is um starting
+on social and then starting after that
+has traction and you got some customers
+then to move more to uh an SEO um type
+of approach and then you carry over a
+lot of lessons that you got from social
+and interaction with your customers that
+can then turn into really good SEO
+content as well so sometimes it's
+actually better to go you know to to
+spearhead with direct contact
+First Watch I think I'm taking too much
+of your time Kevin but just one last
+thing are you a fan of last click or are
+you more uh in leaning towards
+multi-touch what do you think is a
+better
+reporting no I think the best
+attribution from so from an SEO
+perspective right if I was a CMO I might
+think about this differently from a few
+from a pure SEO perspective I think the
+best attribution is probably no
+attribution uh all most of these models
+are flawed uh there is no perfect one
+and a big part of this is because um a
+lot of companies use uh Google analytics
+for attribution and the look back window
+is capped at 90 days meaning you really
+just look at touch points over the last
+90 days and when we talk about B2B SAS
+especially on the Enterprise level those
+buy buyer Journeys uh or customer
+Journeys just take a lot longer than 90
+days so distribution is inherently
+flawed um if I was a CMO and I would
+look at multiple or many channels I
+would probably look at a multi-touch
+attribution model something mixed um and
+I would I would cross reference that
+with some self attribution so asking
+customers at the end of the purchase
+funnel um how they found the company or
+or so on right um the question is always
+um what purpose does attribution fulfill
+to you and I think attribution is
+actually most useful for PID channels uh
+I think it's more flawed for organic
+channels and so if you think about ah
+should I shift you know 10% of my budget
+from Google Search to YouTube or to meta
+or Tik Tok or something I think then
+attribution can really help you find the
+answer but in order to find and commit
+to marketing channels to grow a company
+I don't think it's always the most
+useful I'm so I'm so pleased I'm so
+pleased you Dro that line of like the
+best attribution is no attribution cuz I
+was sat on that I was like kind of
+hoping you were going to say something
+else so that I could drop that line like
+uh and I have talked about this before
+and in my content we've talked about
+this too I think the biggest challenge
+that it's easy for people like me and
+you to to say that um but then the
+people that are like sat in the shoes as
+a CMO or VP of marketing that has to
+report back into the the CEO or
+something it's a [ __ ] nightmare right
+but it is it's very uh yeah it's very
+interesting because we've been talking
+about this a lot ourselves recently even
+from the to be honest even from the paid
+ads
+perspective attribution is still
+fundamentally broken and flawed like
+yeah it can help you with making better
+ads decisions of course but at the same
+time like I just look at our LinkedIn
+ads account like we're for for ourselves
+at hey digital if I disregard the
+learnings across our client base of all
+the SAS companies we're working with I
+just look at our own data like for
+example my LinkedIn ads account tells me
+that uh it's been responsible for for
+three calls being booked with us over
+the last like four months or something
+for maybe 12K in spend or something like
+that so based on that is pretty poor
+results when I look at my when I look at
+my answers on the forms for like where
+did you hear about us uh LinkedIn has
+drastically larger impact than this when
+I look at an attribution reporting tool
+it's like the impact of LinkedIn ads is
+absolutely massive to our it's like
+they're basically like four different
+data lenses I can look through that all
+tell a completely different story about
+the success or the failure of a of a
+channel even though the output and the
+outcome is exactly the same and that
+that's like the more we have these
+discussions the more it's like this is
+such a fundamentally broken area within
+marketing but it's like what the hell
+can we do about it right now not really
+not really that much so I I'm always
+falling back onto like okay how can we
+use the data that we do have available
+and visible to us to help us try and
+make more informed decisions and tell
+better stories but at the same time just
+trying to almost like manage up to our
+leadership team if we have one of like
+what marketing actually is like how does
+marketing even even work like when we
+ask them the last time they purchased
+the
+a a a software product or anything and
+ask them what was your buying process
+for that they're probably not even going
+to be able to tell you the answer
+they're not going to say like I remember
+seeing this exact one blog post and then
+I clicked from that blog post and I
+booked a call and then we ended up
+paying like six figures a year for this
+SAS product right so this is something
+very interesting to to me as well um I
+would love to jam a little bit on what
+you said about the like founder Leed
+content as well but I think we can maybe
+come back to that in a sec cuz I know we
+have people here that want to ask you
+questions as well but I could share some
+learnings from what we're doing what
+some of our other clients are doing as
+well and even how you can do that
+organically but also amplify it with
+paid spend without having to spend like
+a ridiculous amount to still have really
+significant impact um but let's see do
+we have here in the zoom room I know we
+have a few other people that are in here
+as well we have I'm just looking it
+seems to be right now there's 20 of us
+in the zoom room there are 35 people
+watching on LinkedIn so we have about 50
+odd people here live which is great and
+I know a bunch of people will see this
+afterwards as well um someone that's
+watching live do you have a question
+like if you're in Zoom put your hand up
+um okay cool I can see Adrian Adrian we
+have you you want to go
+next happy Friday guys thank you for
+having me Dyan and hi
+Kevin um so considering we are heavy in
+the AI era what are the new SEO kpis and
+by the way sorry about the quicking
+sounds my doc is going berser with a
+true toy sorry about that if you you
+heard it what are the new SEO kpis
+because practically measuring organic
+traffic yeah of course we we measure
+that and keyword tracking that's a bit
+old
+schol uh what matters nowadays for B2B
+and both uh B2B and and
+b2c yeah that's a great question Adrian
+and thank happy Friday to you as well
+thanks for calling in um here's my
+thinking about this since we're still in
+a transition I think it's hard to shift
+completely to new metrics and focus only
+on them I think it's a balance between
+looking at Old metrics and new metrics
+some of the new metrics that I'm looking
+at um very specifically is referral
+traffic from different llms so you can
+uh in your Google analytics get the
+refer from chat GPT perplexity and some
+of these other bigger llms so I I would
+just measure how much traffic is
+actually coming through uh and can I see
+if some of the traffic actually
+converts right now in the companies that
+I've looked into traffic is pretty small
+uh at this moment so it's not yet
+meaningful enough the other side of the
+coin is can I understand how visible I
+am in some of these chat Bots that's a
+bit more tricky but you can do a couple
+things um one is especially for CAD
+chpt uh you can use the API to just run
+a couple of proms yourself so you can
+literally there's a a a Google Google
+Sheets integration uh with C GPT and you
+can Define maybe 100 keywords or so
+maybe you already tracked them from an
+SEO perspective um you turn them into
+prompts or you just measure the keyword
+and you see what comes back from C back
+from cat GPT and then you see if your
+brand is included or not and you can
+repeat that every week to kind of get a
+trend over time so these are some very
+tactical things you can do to understand
+are you know are you mentioned or not um
+because the experience for the prompt
+should be the same for everyone the
+question is are people using the prompt
+and that's the missing piece right now
+you don't know uh how many people are
+using which kind of prompts in SEO we
+kind of know how many people use a
+keyword um from a chat part perspective
+it's much much harder and so the only
+way that I see to close that Gap right
+now is to actually talk to some of your
+customers and see hey um are you using
+chat Bots do you recall any of the
+prompts you have been using but that is
+a little bit of a an open Gap another or
+question mark better said another way to
+figure it out is if you monitor the
+referral traffic from these llms you can
+see which URL they go
+to and then make assumptions of what
+type of prompts people use so then you
+can say hey people go to my I don't know
+blog article
+about topic X right then you can say
+okay maybe people use these types of
+prompts to land on that article and then
+I monitor these types of prompts myself
+but it is not a a perfect system it's a
+lot of assumptions and it's the best
+that we have right
+now I Kevin I wanted to ask about that a
+little bit too actually because like I
+I'm looking at my own personal behaviors
+now for when I'm researching stuff and I
+I know I'm not basing like the whole
+Market just on how I do things but if I
+do things this way there must be a bunch
+of other people that also do things this
+way like my go-to now when I'm searching
+for something actually before I go to
+Google uh I use perplexity I really
+enjoy using perplexity it's like really
+great for me for research for other
+things like this um do you have outside
+of what you just shared because I know
+you kind of just covered this a little
+bit but is there
+anything I don't know like really
+practical that we should be thinking
+about as marketers where we can try and
+position ourselves ahead of others to be
+I don't know if we even call it like
+ranking there sooner than others or
+whatever but I'm I'm just trying to
+think there's clearly a There's an
+opportunity here at some point and
+trying to identify how we make use of
+that cuz me running a paid ads agency
+it's like okay the first thing I want to
+figure out and I'm constantly monitoring
+is like how can we uh like what's the
+ads Network going to look like on search
+GPT on perplexity because it's it's
+there's not a world in which that
+doesn't happen it's going to happen at
+some point so I'm like trying to figure
+that out from a from an SEO perspective
+and from an organic perspective is there
+anything else that you're doing either
+with your clients with people that
+you're talking to where we like you've
+identified some kind of opportunity to
+get ahead there or is it just purely
+what you said uh a few minutes ago as
+well yeah so one thing that's really
+critical when it comes to visibility in
+any of these chat Bots is your what I
+would call your web
+footprint web footprint essentially
+means how often is your company or brand
+mentioned across the web on news sites
+uh YouTube blogs and any web page you
+can go to right how often is it
+mentioned and in what context is it
+mentioned now um it's
+still tricky to monitor that there's
+some tools I can list them if you want
+uh that can help you get an
+approximation of your web footprint but
+it's essentially how the dimensions of
+your uh brand across the web so you can
+even use some like PR tools for that but
+they're often pretty pricey so the
+reason I'm saying that is because two
+things one you want to be part of the
+training data uh for chatbots right if
+you're part of the training data that
+means you can be considered part of the
+answer doesn't it's not guarantee but
+it's a it's your best shot if you're a
+part of the training data then you
+cannot be mentioned as an answer it's
+it's that binary the other reason is
+because chatbot makers or llm makers are
+forging more Partnerships with
+Publishers to reuse their content to
+give fresh answers and so you want to
+besides just mentioning your broad web
+Footprints also mention your footprint
+in these specific Partners right um I
+think Wall Street Journal is part of
+this but um a lot of the news cor um
+properties Etc you'll find a list on the
+web I I wrote about this in in my growth
+memos as well um so right now it's still
+a list of like 15 biggish companies uh
+and over time this will probably expand
+but you want to monitor your uh
+footprint especially on these properties
+because there's a higher likelihood that
+they're being used for fresh answers and
+therefore that your brand is being
+mentioned in that specific context um
+there are also some new tools that are
+spitting up um I think HubSpot just
+launched an AI grader which is really
+interesting I haven't I haven't really
+stress tested the tool yet but that also
+gives you an approximation of how
+visible you are um take it with a grain
+of solid right I'm not exactly sure how
+the tool works but there are more tools
+spinning up that help you understand
+these kind of things nice okay cool
+thank you I'm going to go to a question
+that we have uh actually in the live
+chat on the LinkedIn like stream where
+this is happening in the LinkedIn event
+page so we have a question question from
+nihal that says can you share some
+insights on programmatic SEO and how
+creating free tools has helped drive
+more traffic when compared to blogs or
+landing pages I'm actually like pretty
+curious about this myself as well
+because this is another like like I say
+my SEO knowledge is not strong I'm
+basing this just on what I see on
+LinkedIn and on and on Twitter but like
+I I definitely see a lot of posts about
+people that are churning out free tools
+like at scale as well and I've always
+been curious about uh about this is this
+A playbook that's like still working
+still worth spending time on or am I
+like six to nine months too uh too late
+on on hearing about this kind of stuff
+no this still works it works really well
+and I expect it to work for a long time
+so here's what I mean um generally if
+you think
+about your experience on
+Google any web page that allows you to
+solve a problem on the spot provides a
+superior experience to a web page that
+teaches you something right so very
+tactically if you use a lead generation
+tool to write a mission state or get
+some suggestions for mission statements
+for your company that is obviously much
+better experience than a Blog article
+that teaches you how to write a mission
+statement because you can just solve the
+problem on the spot and so tools free
+tools that can do this for you are
+incredibly powerful they will always if
+they if they will fill their promise
+right they will always outrank block
+articles and so with a lot of my clients
+um if there is a um demand or a need
+that we can satisfy with a tool we'll
+build little lead generation tools um
+often times uh they will require an
+email either to get the output or to to
+be used but sometimes you'll also get
+the output for free without an email
+just like as a tastemaker if you will
+and so uh mission statement that's
+actually something that I've built also
+with ramp the company mentioned before
+before we've buil a mission statement
+generator it still ranks number one um
+and if you look at the rank history it
+ranked number one in days because the
+experience is superior to any of the
+other content which is all blog articles
+uh and because Google wants people to
+solve their problems right that's why
+they come back to Google so you want to
+be on the lookout for these tool
+opportunities where you can build little
+widgets calculators quizzes or
+generators to help people solve a
+problem and again the cool thing is that
+this will sustain over a long time um
+because it can solve your problem so
+even if you know just say over time
+Google was replaced by um llms and chat
+Bots not saying this is true but let's
+just assume um then even that would be a
+superior experience to send users to if
+they're using an llm so um I think this
+is very sustainable and you essentially
+want to turn this into small little mini
+products now the cool thing is that
+marketers can build these things more
+and more elves without technical
+knowledge first because there's a lot of
+no code platforms um outgrow is one that
+comes to mind that I've been using with
+some clients there are others as well um
+that want to pick favorites and then uh
+the other thing is that with AI you can
+be so much more technical right I um can
+anybody can write code now with AI just
+by naturally prompting the AI what they
+need to code for and what the use case
+is and so um I think with that powerful
+combination no code Tools Plus AI
+leaves little room for excuses not to
+build some basic tools um they need to
+look good they need to be easy to use
+right and you cannot gate them too hard
+otherwise people would just go to the
+tool that provides more free value but
+that is a more powerful way than
+teaching people how to do something uh
+and to drive organic traffic and it
+converts at a higher rate too okay nice
+I'm going to ask a slightly selfish
+question about this because I have you
+uh I have you here and I'm running this
+session so I'm going to take some of
+your time for for a minute we have a a
+small a very small SAS product of our
+own that we run for different
+experiments and we just I I use it
+myself every day uh that's called post
+strips so it's a like AI powered content
+writing tool specifically for LinkedIn
+so most people that are here on this
+session they've found me most likely
+through my LinkedIn content uh I use
+tool to support me with writing posts
+with scheduling things everything else
+like this now we use it as a little bit
+of a playground for some tests and
+experiments but it's a very small
+product it doesn't have a dedicated team
+it's literally like me and we have a
+freelance contract developer that we use
+uh for it so it's nothing significant
+and that means it doesn't get much time
+dedicated to it from a like a resource
+perspective a couple of the pages on
+that site that generate traffic for us
+right now we have like a LinkedIn video
+downloader for example like you can't
+download people like videos that people
+post on LinkedIn natively on LinkedIn we
+have a LinkedIn video download we have I
+think we have like a headline rewriter
+or or something like this so I have a
+list of maybe 10 or 15 different tools
+like that somewhere that we like could
+build and could create and so I'm
+thinking about getting to those later or
+or sooner based on what you've just said
+actually but I wanted to ask you with
+tools like that should there be a
+balance between like longevity and
+potential virality and I'll give some
+context to that so yesterday I was on
+LinkedIn I saw a video post that someone
+did and and it was like them
+showing a tool that had roasted their
+LinkedIn profile right and so a micro
+tool like this has so much virality
+potential um would it make sense from an
+SEO perspective to build tools that are
+focused on short-term virality potential
+or should we if we look at things like
+that should we look at it just as okay
+it'll be pretty easy to get 15 20
+creators creating a video about this
+posting it on LinkedIn and that's where
+the value stops do you see where do you
+see where I'm coming from of like with
+those do we focus on longevity or short
+term because I think with like you said
+with the rise of the capabilities that
+we have now for like I could literally
+build a tool like that myself very
+easily now so I'm curious if you measure
+those things up as well when you're
+looking like the tool
+opportunities 100% I think the most
+important question is
+whether that verality can turn into
+customers right is there a fit between
+those tools and the product right I'm
+going to be honest the mission statement
+generator was an experiment um and I was
+very fortunate that ramp is incredibly
+quick to execute their their Fantastic
+Team um and we weren't sure how how well
+it was going to do because creating
+missions I mean for context right with
+ramp you can create a business credit
+card you can monitor your expenses all
+that kind of stuff right so it's like a
+finance um uh solution for businesses
+and at first we weren't sure if creating
+a mission statement was maybe too early
+in the user Journey uh and whether
+people would then start the business and
+and get a credit card from us or um an
+expense solution um it turned out that
+for that to be the case but it was a bit
+of a jump in the beginning and so um you
+always want
+to validate if you can or at least have
+a very tight logic around whether that
+virality and that attention and traffic
+can actually turn into customers uh at
+Shopify was very very similar so we had
+a business name generator and creating a
+business name is a critical step when
+you set up your online store and so that
+drove a ton of business for us and so
+for the for the LinkedIn roster which is
+a cool idea right I I totally see how
+that goes viral or went viral um yeah I
+I think it would be a better fit if I
+had a tool that optimizes your LinkedIn
+profile I think there is a natural fit
+but for you know a a SAS tool that
+creates maybe LinkedIn posts or or ad ad
+campaigns or that kind of stuff um I
+think it I'm not sure sure if it would
+translate into customers and so first of
+all you want to argue through that and
+reason through that and second of all
+you want to see if you can maybe
+validate that in some way maybe talk to
+some people maybe run a smoke screen ad
+campaign where you don't really have the
+tool but you see how many people click
+the ads so I think you want to get more
+conviction that this will actually turn
+into business and then any reality is
+awesome right but I think it can also
+very quickly turn into wasted effort
+where you get a ton of attention but it
+doesn't translate into
+right right for sure okay cool thank you
+so we have we had this uh amama in for
+like five more minutes I know we're
+going to have a few more questions as
+well so I want to be respectful of
+Kevin's time too um let's do one more
+question for sure and then we'll see how
+everyone is feeling I the first hand
+that went up was Brandon I've seen you
+like put your hand up a couple times
+Brandon so let's uh let's go to let's go
+to
+you sorry you just wasn't sure if uh um
+yeah if my screen was working because oh
+good it's it's all it's actually an old
+laptop so um it's cracked yesterday but
+uh yeah I won't bore you with the
+details um anyway yeah my name is
+Brandon and uh I'm from Malaysia so it's
+actually night here now so great to see
+you guys um uh yeah so I was thinking
+about what um you know Kevin was talking
+about um during um the first question
+like we were talking about diversifying
+B2B uh diversifying platforms for b2bs
+right so um in I'm not sure about the US
+uh but in Malaysia we still have this
+very traditional approach like whenever
+we approach um maybe a client uh wanting
+to do um wanting to do uh SEO um like
+with my agency we'll always start off
+with Google first and it's like just a
+you know one of those memes that just
+slaps a sticker on you know that that uh
+aquarium tank boom boom Google
+everything boom Google um and I'm
+starting to think that you know that
+that tactic doesn't really work anymore
+these days because not I mean as seos
+maybe I think we could have like shoold
+ourselves into just being that Google
+guy or being that you know that that
+Google specialist but when in fact we
+could actually be an organic specialist
+like looking Beyond just Google like I
+don't know maybe starting first on
+LinkedIn um and then maybe Tes it out
+there like uh what Kevin was saying
+earlier like starting it out on a social
+platform first and then after we've
+gotten some more awareness then uh only
+taking it to Google um do you do you see
+like this uh I'm not sure do you see
+this happening in the US or in other
+countries where other seos are adopting
+this approach or is it just uh or is it
+still um not really a thing yet so ju
+just a question that came to
+mind yeah just to be sure I understand
+correctly um the question is do you see
+more of this kind of creating buzz on
+social and then taking it to SEO is did
+I get that right yeah yeah not not
+necessarily on just social but it could
+be any platform uh uh in general yeah
+yeah yeah totally totally look um I I
+absolutely agree with you that um as
+seos it's easy for us
+to just focus too much on you know some
+like very SEO specific things and
+completely forgetting that SEO is a
+channel that that catches the
+and that demand has to come from
+somewhere and matter of fact um I
+actually think that for a couple years
+now we're witnessing that you need to
+also stimulate some demand uh for
+especially your brand in order for
+Google to rank you well for even
+non-branded terms uh I see that more and
+more when people specifically search for
+example for Shopify business and
+Generator um the chances of Shopify
+ranking number one for business them
+generator increase same for e-commerce
+or other terms right we we saw that
+relationship and so I think you're
+absolutely right and I think for too
+long we've just as seos kind of set back
+and and enjoyed all the demand and
+that's changing a little bit and has
+already changed so we need to
+collaborate more with departments that
+actually generate demand and it goes a
+little bit back to that point I made in
+the beginning about product marketing
+right um I think product marketing has
+an a growing influence on SEO in so far
+that it's a
+critical way or critical um motion to
+stand out in a large crowd um and uh
+hopefully get more demand from people
+right and so the short answer is yes I
+think that's become more critical you
+see some of these uh things sprouting up
+here in the US as well um and I think it
+doesn't yet I don't think there's like
+this broad awareness for this yet and
+and there's not this Playbook yet right
+where one company went out and uh and
+and did that and did something
+differently and then I saw these massive
+results so long story short uh yes um um
+sorry I'll I won't uh trouble you with
+uh too many questions it's just one last
+one and then uh we could move on from
+there yeah um so thanks for answering
+that um yeah um so yeah it's good to
+know that um I haven't missed the train
+and uh that this trend hasn't caught on
+yet so um yeah uh thanks for that uh
+that answer and also um since we're
+talking about like diversification and
+diversifying platforms like do you see
+like um us as CEOs like being asked to
+go into spaces like social media SEO
+like I don't know how that would work
+with the social media team because it's
+their domain right especially with uh
+with Organic social like we we can't
+just like Edge in there and be like hey
+I'm gonna do your job for you now um
+like how do you see that happening since
+like you know es especially like Sam
+rush I think has been posting lots of
+blogs about Tik Tok SEO YouTube SEO and
+then now you've got things like search
+GPT coming up chat GPT Amazon and uh
+yeah do you see like this you know
+becoming like a regular you know to-do
+for us in our job scope or is it like
+still you know it's not going to take
+off kind of thing yeah I see that as a
+as a regular to-do absolutely um YouTube
+I think is the closest planet uh to SEO
+and there's a natural carryover there's
+actually a lot of um of of similar
+search Trends so um I I I write these
+deeper dives into Industries and
+companies on the paid growth memo and
+what I see there A lot of times is when
+I compare search demand across a large
+set of keywords on YouTube versus Google
+versus Tik Tok it's very often very
+similar right and so um the question I
+think is how to interface with other
+teams and so to your point I think
+coming in and saying this what you have
+to do uh is a bit tricky unless you own
+those channels as an SEO um but I think
+you can provide a lot of useful data
+from an SEO perspective to incentivize
+these teams to do certain actions and so
+I think the most tactical use case is to
+say hey there's so much search demand
+for this keyword on YouTube but we don't
+have a video on it can you guys go out
+and make a video and we embed it in the
+blog article as well and you link to the
+blog article from the video so we have a
+bridge between those um and that's just
+capture this demand um on Tik Tok I
+think it's absolutely also possible the
+interesting thing about Tik Tok is that
+it has both it has an actual intent
+Behavior or sorry intent driven search
+engine where you type something in you
+get results based on your keyword and it
+has that behavioral component where
+based on whether you swipe or like or
+comment and all these other actions you
+get different uh content so I think
+there's a real opportunity to capture
+search Demand on Tik Tok as well um but
+these social platforms are not very
+interested in sending traffic out so you
+have to approach them with a different
+mindset they're not performance channels
+the more brand building channels and and
+have like an aggregate indirect effect
+so I think the one question is how do
+approach teams and then how to measure
+success as well well we could also just
+do it ourselves right as seos like doing
+it on YouTube or Tik Tok ourselves
+without that yeah if you can absolutely
+man quick anecdote and by the way Dylan
+I can go a little bit over just to let
+you know um okay I was just gonna ask
+you I'm gonna stop yeah that's my last
+question so sorry all good all good no
+no I can go until the full hour if
+that's okay um okay but very quick
+antidote from G2 so at G2 our biggest
+competitor was and is kep Tera um and
+there there was a and still is a very
+critical keyword to win which is CRM
+software it's really important um and
+for the longest time Capa was ranking in
+a YouTube video Carousel uh almost at
+the top of the search results and the
+video that they were ranking with was
+this
+10-year-old video of a guy in fromont
+the Whiteboard who is just sketching out
+what a CRM is and that got so much
+attention and so many likes and so much
+traction so in some cases that can
+actually work um I think though in most
+cases you need a a high a well produced
+video uh to to to
+rank all
+right for the thanks for the question as
+well Brandon I appreciate it so let's do
+this uh Kevin if you're Co to run over
+for a few more minutes I to be honest I
+don't think I'm going to ask you another
+audience-based question just because
+we'll probably run out of time if we do
+things this way so I'm going to ask you
+a quick uh direct question in a second
+um and then there are still quite a few
+questions that came through either on
+LinkedIn or in the meeting chat in Zoom
+as well so I would recommend like if
+anyone has uh follow up questions or
+things like this you can reach out to me
+I'm sure you can reach out to to to
+Kevin directly um as well um let's do a
+couple quick announcements just whilst
+we have everyone here because if Kevin
+if I get you to answer one more question
+and start wrapping up people are
+potentially going to leave us so we do
+have one more uh live session AMA like
+this coming up actually in a few days
+time uh that I would love to invite
+everyone to who is on this session I'm
+going to put the zoom registration link
+for it in the zoom chat if you're on
+LinkedIn man anank from my team will
+share the registration link there we're
+doing a session uh with Mark Kens I'm
+sure a lot of you know him from uh from
+LinkedIn he was uh he was at like drift
+before a few other really great
+companies too um and we're talking all
+about like GT M and this like people
+first GTM model and how so many
+companies are approaching GTM in a bit
+of a broken way I think GTM is like such
+a topic of conversation on LinkedIn all
+the time in the SAS space so I just
+wanted to bring someone on so that we
+could talk about it decode it a little
+bit so would love to invite a bunch of
+you who are here to that session as well
+if you're able to make it um okay so we
+have few minutes left before you need to
+leave Kevin so thank you for running
+over really really appreciate it what
+would be if if someone like let's think
+through the lens of hopefully and I
+think most people on this call are SAS
+marketers or B2B marketers or in the B2B
+or SAS
+space if there was one test or one
+experiment that you would uh and I know
+you need a lot more context to say
+whether it's going to be successful or
+not but if there's like one thing that's
+interesting for you right now that
+you're trying or that you've seen that
+you think more people should be aware of
+um what would that what would that be
+yeah I'm going to give you two um one is
+Reddit has become incredibly incredibly
+powerful in search um last year in May
+Google launched an update that
+essentially increase the the visibility
+of forums significantly and since Reddit
+is the largest forum they gain a ton of
+visibility they're actually they get
+about as much traffic right now as
+Amazon and Facebook which is crazy um
+and you want
+to get a good understanding of the
+conversation on Reddit about your market
+and maybe your product even or your
+brand so there are different tools you
+can you can use for that gumy search uh
+is one that I can recommend to uh see
+what your audience talks about when they
+mention your product or uh your your
+Market I think that's really critical uh
+to understand what people say and you
+can address that in some of your content
+um I think that's a powerful way to
+actually create content that your target
+audience really cares about um the other
+thing is an experiment that is a bit
+more Tactical which is that um I think
+it's so important to refresh and update
+content and I just without giving too
+much guidance here I just want to in
+encourage everyone to try refreshing
+some old content on their blog um of
+course it has to make sense right it's
+not it's not enough to just like rewrite
+some sentences so they're different but
+to actually update some content maybe
+there some outdated information maybe
+there's a point you can make clearer
+maybe some graphics or images you can
+add those kind of things um that is one
+of the most powerful full levers in SEO
+right now period it's just upto-date
+content and Google has become so much
+more sensitive to uh to to Fresh content
+that um again I see big traffic gains
+from that so I'm going to leave you with
+that um the experiment there would be to
+just you know like basically before and
+after see what it does when you refresh
+that old
+content nice thank you the gummy search
+thing that you mentioned we signed up
+for that like a week ago and we've been
+using it for Content ideas like from a
+organic perspective video content things
+like this too and that's been like
+really really awesome I I even think
+there's value to to a tool like that for
+even if you're not trying to use it to
+create content but just to like
+understand your customers better a lot
+faster it was like very interesting to
+me to just find a very straightforward
+way to see what everyone is like saying
+and talking about in your space it's
+like definitely recommend this even if
+you're a marketer and you're trying to
+get into the headp space of your users
+faster of course you can do customer
+interviews and things like this but
+they're not always the easiest to set up
+they're pretty timec consuming you
+should still be doing those too but
+something like gummy search can kind of
+give you a good uh Middle Ground at
+least that's been our experience with
+trying that too so yeah thank you for
+thank you for that I'm also just a
+sucker for a SAS product I'm like that's
+my uh Kryptonite almost is like signing
+up to all the SAS tools it's a it's a
+problem but I'm aware of it and I'm
+talking about it so that's the first the
+first stage right um okay cool thank you
+dude thank you so much for joining today
+this has been really great thank you to
+every one who had questions whether you
+were here in uh in Zoom whether you're
+on LinkedIn it's been really great
+seeing so many of you in both of those
+places as well um Kevin finally like if
+someone wants to just keep up to date
+with your stuff a little bit more what's
+the best place to that is it your like
+growth notes at the moment is that where
+you're sending people or or something
+else yeah thanks D and thanks again for
+having me thanks everyone for tuning in
+uh growth dm.com is the best place to
+start that's where I share my thoughts
+research
+observations um and then I'm still on
+Twitter uh I'm on threads I'm on
+LinkedIn so hit me up nice thank you man
+and for anyone in the last like two or
+three minutes for anyone who is thinking
+about uh the content piece that we said
+a little bit earlier on just like one
+thing that is crushing it for us right
+now with the founder Le content both for
+myself and some of our clients um it's
+the whole founder LE model for sure we
+can maybe do a separate AMA on this but
+in the last like two two and a half 3
+weeks uh short form video on LinkedIn
+that is like mobile format so like
+mobile phone screen size format The
+Impressions on this content is like out
+of control right now the this content
+seems to be served to a lot more people
+I think it's tying in with linkedin's
+roll out of the new uh video feed that
+they're going to be adding to the to the
+mobile app some of you may already have
+it some of you don't have it just yet
+but for context like my personal videos
+on LinkedIn previously were averaging
+between 5 and 7,000 Impressions my last
+three videos have been
+106,000 95,000 and
+220,000 for example um nothing has
+changed in terms of like editing style
+type of content I think these like
+mobile first videos are just being
+pushed to a lot more people right now
+too I know a lot of you may be a bit
+nervous about going on video worried
+about having to be higher production or
+other things like this but I am running
+a test with posting another video later
+which is just literally going to be a
+clip from a zoom call it's not higher
+production or anything and I'm like 90%
+sure the impact is going to be the exact
+same so if any of you are feeling brave
+I would love to encourage you to push a
+few videos out there too you could use
+Gummy Search for example or any of the
+other things we've talked about to get
+some content ideas um and make it
+relevant for your for your customers for
+your users as well um if there was like
+an organic play and then you can boost
+that with thought leadership ads on
+LinkedIn too but we can do a separate
+session about the the ads playbooks as
+well um okay thank you everyone so much
+for joining I really appreciate all of
+you Kevin thank you for coming for
+running over the time as well your time
+is very valuable so thank you we really
+appreciate it and I hope everyone has a
+great rest of your Friday good start to
+your weekend if you're at that time
+already and hopefully we will see you
+for our next session with Mark next week
+as well awesome thanks team thank you
+everyone see you goodbye

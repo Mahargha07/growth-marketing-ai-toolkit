@@ -760,7 +760,7 @@ The old world is about a single
 platform, which is Google.
 The new world is about multiple
 platforms. Reddit, YouTube, Google,
-ChatGPT, Perplexity, Claude, whatever
+ChatGPT Perplexity Claude whatever
 you have.
 We're also moving from a world of broad
 intent, where we optimize for short-head

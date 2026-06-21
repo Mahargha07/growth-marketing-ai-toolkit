@@ -1,25 +1,25 @@
 import os
-import sys
+import requests
 
-try:
-    from youtube_transcript_api import YouTubeTranscriptApi
-except ImportError:
-    print("Installing youtube-transcript-api...")
-    os.system(f"{sys.executable} -m pip install youtube-transcript-api")
-    from youtube_transcript_api import YouTubeTranscriptApi
+SUPADATA_API_KEY = "sd_7750beb7d9e62d95d44d22fbda816f38"
 
 VIDEOS = [
     ("ryan-law", "iVZrVeESnFQ", "How to automate blog writing with AI"),
     ("ryan-law", "b949h7ZJW8w", "Ryan Law on generative AI and content"),
     ("kevin-indig", "jxXPpXL2pFg", "Beyond the SERP Winning the Visibility Layer"),
     ("kevin-indig", "Aj6XR_1Ya2E", "Dominate Organic B2B Growth in the AI Era"),
-    ("ross-simmonds", "7_bFP2iVVN0", "B2B Content Marketing and Distribution"),
-    ("ross-simmonds", "8lQfWBFF45U", "B2B Content and Social Media Strategy"),
-    ("kyle-byers", "fbv2-JtC5PM", "Googles Helpful Content Update Panel"),
-    ("bernard-huang", "f84ovVChEh4", "AI driven SEO revolution discoverability"),
     ("koray-tugberk-gubur", "81pe-YM9iRI", "AI Powered Semantic SEO with Koray Gubur"),
     ("koray-tugberk-gubur", "8qr6vEUnFUM", "Koray Tugberk Gubur Invented Topical Authority"),
+    ("nathan-gotch", "7mtCa8sqjBo", "AI Changed SEO Forever Nathan Gotch 2025"),
+    ("nathan-gotch", "4BSMNFNhY_E", "Nathan Gotch Playbook Breaking Through SEO with AI"),
+    ("britney-muller", "l4fIHPtjIMY", "Breaking Down AI and Search Changes 2025"),
+    ("britney-muller", "YZD2lmcbryo", "SEO is Changing Brand Mentions New Backlinks"),
     ("aleyda-solis", "fbv2-JtC5PM", "Googles Helpful Content Update Aleyda Solis"),
+    ("brendan-hufford", "p3_P0dDspBI", "Brendan Hufford B2B SaaS SEO content"),
+    ("wil-reynolds", "YVaRBvNXg6o", "SEO Industry Obsessed With Wrong AI Metric"),
+    ("wil-reynolds", "0JzhxXHCTYY", "Future of Search AI Takes Over"),
+    ("ross-hudgens", "8-PS7gR2G0I", "AI Visibility Data Journalism Future of SEO"),
+    ("ross-hudgens", "1tr7nNrEYHk", "Evolving Content Marketing Playbook SEO Week"),
 ]
 
 OUTPUT_DIR = "research/youtube-transcripts"
@@ -32,39 +32,45 @@ def sanitize(text):
 def fetch_and_save(expert, video_id, title):
     folder = os.path.join(OUTPUT_DIR, expert)
     os.makedirs(folder, exist_ok=True)
-    filename = f"{sanitize(title)[:60]}.txt"
+    filename = sanitize(title)[:60] + ".txt"
     filepath = os.path.join(folder, filename)
 
     if os.path.exists(filepath):
-        print(f"  [SKIP] Already exists: {filepath}")
+        print("  [SKIP] Already exists: " + filepath)
         return True
 
     try:
-        ytt = YouTubeTranscriptApi()
-        transcript_data = ytt.fetch(video_id)
-        full_text = "\n".join(snippet.text for snippet in transcript_data)
+        url = "https://api.supadata.ai/v1/youtube/transcript?videoId=" + video_id
+        headers = {"x-api-key": SUPADATA_API_KEY}
+        response = requests.get(url, headers=headers)
+        data = response.json()
+
+        if "content" not in data:
+            raise Exception(str(data.get("error", "No content returned")))
+
+        full_text = "\n".join(segment["text"] for segment in data["content"])
 
         with open(filepath, "w", encoding="utf-8") as f:
-            f.write(f"EXPERT: {expert}\n")
-            f.write(f"VIDEO TITLE: {title}\n")
-            f.write(f"VIDEO URL: https://www.youtube.com/watch?v={video_id}\n")
+            f.write("EXPERT: " + expert + "\n")
+            f.write("VIDEO TITLE: " + title + "\n")
+            f.write("VIDEO URL: https://www.youtube.com/watch?v=" + video_id + "\n")
             f.write("-" * 60 + "\n\n")
             f.write(full_text)
 
-        print(f"  [OK] Saved: {filepath}")
+        print("  [OK] Saved: " + filepath)
         return True
 
     except Exception as e:
         with open(filepath.replace(".txt", "_FAILED.txt"), "w") as f:
-            f.write(f"Transcript unavailable for video: {video_id}\n")
-            f.write(f"Reason: {str(e)}\n")
-        print(f"  [FAIL] {expert} / {title[:40]} --- {e}")
+            f.write("Transcript unavailable for video: " + video_id + "\n")
+            f.write("Reason: " + str(e) + "\n")
+        print("  [FAIL] " + expert + " / " + title[:40] + " --- " + str(e))
         return False
 
 
 def main():
     print("\n========================================")
-    print("  AI SEO Transcript Fetcher")
+    print("  AI SEO Transcript Fetcher - Supadata")
     print("========================================\n")
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     success = 0
@@ -73,7 +79,7 @@ def main():
 
     for expert, video_id, title in VIDEOS:
         if expert != current_expert:
-            print(f"\n-- {expert.upper()} --")
+            print("\n-- " + expert.upper() + " --")
             current_expert = expert
         result = fetch_and_save(expert, video_id, title)
         if result:
@@ -81,9 +87,9 @@ def main():
         else:
             failed += 1
 
-    print(f"\n========================================")
-    print(f"  Done. {success} saved, {failed} failed.")
-    print(f"========================================\n")
+    print("\n========================================")
+    print("  Done. " + str(success) + " saved, " + str(failed) + " failed.")
+    print("========================================\n")
 
 
 if __name__ == "__main__":
